@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My page 
+title: Vincent's page 
 email: vincentcheng236@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Now"
+    url: "/now/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
