@@ -4,9 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-# What I'm Doing Now (updated 6/13)
+# What I'm Doing Now (updated 6/22)
 
 
-- Preparing for IOAI 2024
-- Staying at a London house for a month
-- Getting cracked at bjj
+- Grinding for IOAI 2024
+- Staying in London for a month
+- Training 5 days a week for my first bjj competition 
