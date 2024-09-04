@@ -1,9 +1,22 @@
 ---
 layout: post
-title:  "Patrick McKenzie Dwarkesh Episode"
+title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
+# Ricki on Complex Systems (8/23)
+
+- teaching pays better than trading??
+- crowdfunding (for regular people to pool together and fund companies instead of buying stocks after ipo) is adverse selection. good companies won't be passed on by vcs and angel investors
+- reponse to "why do u ever trade if adverse selection" is you need a valid story for why someone else is taking your trade and why someone else hasnt offered the trade you are if it is profitable
+- the real time order book is obtainable with all the prices and times listed but the names aren't available. why? because if you see trades from goldman sacks and the 9-5 wannabe hft, you will want to trade more with the 9-5 and goldman sacs doesn't want this
+- arbitrage: trading two different products that are essentially the same product (price) in a way such that you are profiting risk-free
+- example of information leakage when it doesn't seem like info is being leaked: private planes have to be logged and you can see where big ceos are flying based on their plane. if they are frequently flying to somewhere the usually don't, it might mean they are trying to acquire that new company and you can use that information to your benefit. this doesn't seem like info leakeage since all this info is open-source but bits are in face being given out.
+- same thing for when and what a trader's book recommendation is or simply when a friend asks you about something and you seem to know a lot about it or how many people are at your desk (how many resources the firm dedicates to your work)...
+- another example: who someone follows on twitter
+
+
+# Patrick McKenzie Dwarkesh Episode (7/28)
 VaccinateCA:
 - centralize information about where to get vaccines
 - started as a random hackathon project between friends at 10 pm

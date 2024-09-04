@@ -10,6 +10,9 @@ Hello, I'm Vincent. Welcome to my personal website!
 
 ## Contact
 
-- DM me on [Twitter](https://twitter.com/vvvincent_c)
-- DM me on Discord @ vvvincent
+I love meeting all kinds of new people!
+
+- [Twitter](https://twitter.com/vvvincent_c)
+- [Discord](https://discord.com/users/vvvincent)
 - Email me at vincentcheng236@gmail.com 
+
