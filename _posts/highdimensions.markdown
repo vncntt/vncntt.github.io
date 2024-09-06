@@ -39,6 +39,9 @@ Below is a picture from Wikipedia showing the n-volumes of balls from 0 to 25 di
 
 ## 4. Randomly chosen vectors in high-dim spaces are almost all orthogonal
 
+
+
+
 ## 5. Local minima are rare
 
 

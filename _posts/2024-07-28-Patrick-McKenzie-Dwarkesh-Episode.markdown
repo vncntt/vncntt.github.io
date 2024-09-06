@@ -4,6 +4,30 @@ title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
+# Karpathy on No Priors (9/6)
+
+- waymo was basically a perfect drive 10 years ago (regulation, edge cases, ... took 10 years) 
+- tesla is ahead of waymo 👀. tesla has a software problem and waymo has a hardware problem. tesla already has their hardware (cars) all around the world and waymo only has sf
+- you have to build it up incrementally but endtoend is the way. video stream -> neural net -> steering commands
+- everything from self-driving cars transfers to humanoid robots
+- tesla isn't a car company. it's a robotics at scale company
+- tesla has so much in-house expertise for hardware, scale, software, data
+- the first humanoid robots won't be doing laundry. the first applications will be in-house doing your own stuff then b2b to other companies with large warehouses then b2c at the end
+- he's crazy bullish on tesla
+- humanoid is good bc data collection, world is built for humans, transfer learning between all tasks. very specific form factors are local minima
+- a lot of the tools are already there. it's the grunt work, messy details that is still missing
+- transformers are so goated. the first nn that scales for 7 ooms. it's software tissue that you can reconfigure for almost anything. it's better than the brain in a lot of ways (working memory). backpropogation might be better than the brain (crazy to think about)? 
+- internet data isn't actually that good. it's just what was convenient, good enough, and took us surprisingly far. the internet is 99.9% random info and 0.1% actual good thinking? what you really want is the inner monologue in brains as they problem solve
+- you have to make sure your synthetic data still has a lot of entropy and pertains diversity/richness or your model will silently collapse into a narrow npc distribution. bullish on synthetic data tho. it has to work
+- augmentation with tech is already happening on an insane scale
+- current models are wasting lots of space memorizing random stuff (sha hashes). distillation works. we'll have 1b models that work very welll
+- "companies of llms": different llm swarms with specialties (code, writer, ...) that operate together
+- how far could a person go with the perfect tutor?
+- karpathy grew up in slovakia??
+- in a post-agi society, education is mostly entertainment. 
+- 200 years ago, all the ppl doing science were the nobility who didn't have to worry about life. 
+- eureka labs hype
+
 # Ricki on Complex Systems (8/23)
 
 - teaching pays better than trading??
