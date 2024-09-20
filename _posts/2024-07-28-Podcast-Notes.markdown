@@ -97,3 +97,26 @@ Thinking well
 - what did founders spend too much effort overoptimizing on? status
 
 Blameless post-mortems
+
+
+# Sholto Douglas and Trenton Bricken Dwarkesh episode (4/16)
+
+- agents arent a thing yet not because of short-context windows but because current models arent reliable enough st you can chain long actions with success. an extra 9 or little bit of accuracy increase and boost the whole chain
+- adaptive compute, decide how much compute you want to use for each task. using more forward passes
+- ml companies are just greedily optimizing through the possible ai architectures like evolution
+- models making better data
+- gpt4 ~ 1 trillion parameters?? brain has approx 30-300 trillion synapses so we might still be below brain scale
+- superposition implies that nowadays models are still extremely underparameterized. its trying to fit large dimensions in small ones. a bigger model just means cleaner representations
+- toy models of superposition paper. compresssing very sparse features (things it needs to know) and compressing it down to more confusingly which is why its so hard to interpret
+- superposition occurs when you have high-dimensional data that is sparse
+- chain of thought is adaptive compute
+- how much better would collaborating agentic models be if they could share residual streams instead of communicating through text
+- dream of rl: provide this really sparse, end, reward signal and then the model learns the correct actions to take
+- language is the modality evolution has come up with to learn about reasoning
+- david bau's lab paper: if you fine tune on math problems, model gets better at entity recognition. related: training on code bases makes model better reasoning: being able to code just makes you able to think better
+- just make shit happen no matter what. execute
+- if you actually go ham, you can get pretty far pretty fast
+- you can talk to models in base-64 and itll respond perfectly like normal. wtf??? why does this happen
+- automated interp: your models can be deterministic. your gpt-6 can have say billions of features and you can have a bunch of smaller models tweaking inputs and outputs seeing when the features fire and trying to figure out which what the features correspond to. this sounds promising 👀
+- current interp work is taking the activated vectors (logits-y?) and finding features through that, but the end goal would be not even running the model through the activations but being able to learn about the model purely by looking at the weights (very hard)
+- research project: find the specialization in the mixtral model
