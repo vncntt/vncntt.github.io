@@ -4,7 +4,7 @@ title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
-Dylan and Jon on Dwarkesh (9/10)
+# Dylan and Jon on Dwarkesh (9/10)
 - "China has been hacking ASML for five years". wtf huh i gotta read about this 
 - china can poach tsmc employees pretty easily
 - liang mong song lost a promotion in tsmc and took a shit ton of ppl to samsung (apparently he's not THAT op)
