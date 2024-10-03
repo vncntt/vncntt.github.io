@@ -4,6 +4,71 @@ title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
+Dylan and Jon on Dwarkesh (9/10)
+- "China has been hacking ASML for five years". wtf huh i gotta read about this 
+- china can poach tsmc employees pretty easily
+- liang mong song lost a promotion in tsmc and took a shit ton of ppl to samsung (apparently he's not THAT op)
+- so much of semiconductor knowledge is passed down "apprentice-master" style 
+
+- china should centralize their compute
+- china could build a 10 gigawatt data center in 6 months centered around gorges dam
+- there's some aluminum mill in china which is alrd 5+ gigawatts
+- packaging
+- china was 45% of asml's revenue??
+- us sanctions on china chip manufacturing is REALLY complicated
+- they can just choke out something like lithography
+- Jon doesn't think the us can stop chinese semiconductor from growing
+- china could get centralized 1e29 flops training run faster than the us
+- china is still using all their chips for like huawei phones
+- huawei is so fucking cracked. no tsmc, can't ship to europe, but still outcompete nokia, sony ericsson
+
+- us nationalization vs oai/xai/ant/google/meta fighting separatly
+
+- 2nm is going not going to be viable unless demnad/ai gets much higher
+- what does all of this mean man? gotta read up on computers
+
+> When you moved from 90 nanometer to 80 or 70 something, you got 2x. Dennard scaling was still intact. But now when you move from 5 nanometer to 3 nanometer, you don't double density. SRAM doesn't scale at all. Logic does scale, but it's like 30%. All in all, you only save about 20% in power per transistor. But because of data locality and movement of data, you actually get a much larger improvement in power efficiency by moving to the next node than just the individual transistors' power efficiency benefit. For example, if you're multiplying a matrix that's 8,000 by 8,000 by 8,000, you can't fit that all on one chip. But if you could fit more and more, you have to move off chip less, go to memory less, etc. The data locality helps a lot too.
+
+- if china invades taiwan, we will not be thinking about ai. cars, phones, screens, everything using electronics will be fucked
+
+How does one learn about semiconductors?
+- there aren't "18 year old dropout turned engineer at openai"s in the semiconductor industry
+- everything is so fucking specialized it's harder to break in
+- AI is new. all the frontier methods are on the Internet. There is ZERO frontier tech about semiconductors. Everything is locked in labs. Zero documentation online.
+- You cannot be full stack. There are literally a thousand layers in the production stack.
+- "semiconductor manufacting is the most complicated thing humans do"
+- there are humungous innovations still available in architecture. literal 100x gains available
+
+- china destroys us at image recognition
+
+- GPUs/research engineer is your research velocity
+- SSI with $1 billion would only be able to run a ~30k GPU cluster. xAI got a 100k cluster running
+- other big companies like Google, OpenAI can't do what Elon did because of environmental policies
+- dylan expects Google, MSFT to drop their environmental commitments as scaling progresses :skull:
+- money split (very rough): 80% gpus, 10% datacenter, 10% power
+
+- there's a gigawatt potential dam in ethiopia??
+- gigawatt datacenter in malaysia for bytedance (tiktok)
+- 100k GB200 cluster going up in the middle east
+- datacenter capacity: US -> China -> malaysia -> middle east -> ...
+- OpenAI cluster in Arizona, xAI in Memphis 
+- by next year, 300-600k GPU clusters where the GPUs are 2-3x faster
+- OpenAI will need 50-100 billion dollars to do this 
+- 1e30 run will cost multi-hundred-billion dollars
+- Microsoft is taking incredible credit risk
+
+- AGI = God lmao. Pascal's wager. "the cost underinvesting in AI is more than overinvesting
+- where is the additional money going to come from? Dylan keeps saying revenue doesn't matter but Jon isn't a believer. GPT-4 cost $500 million to train.
+- Dylan sounds like an apostle 
+
+- Even Jon has imposter syndrome
+- Dylan goes to fucking 40 conferences a year. Confs on everything in the technical stack
+
+- Memory is a major opportunity 
+- Find what you enjoy, work your ass off, profit
+- We aren't at the Pareto optimal
+
+
 # Karpathy on No Priors (9/6)
 
 - waymo was basically a perfect drive 10 years ago (regulation, edge cases, ... took 10 years) 
@@ -40,7 +105,7 @@ date:   2024-07-28
 - another example: who someone follows on twitter
 
 
-# Patrick McKenzie Dwarkesh Episode (7/28)
+# Patrick McKenzie on Dwarkesh (7/28)
 VaccinateCA:
 - centralize information about where to get vaccines
 - started as a random hackathon project between friends at 10 pm
@@ -99,7 +164,7 @@ Thinking well
 Blameless post-mortems
 
 
-# Sholto Douglas and Trenton Bricken Dwarkesh episode (4/16)
+# Sholto Douglas and Trenton Bricken on Dwarkesh (4/16)
 
 - agents arent a thing yet not because of short-context windows but because current models arent reliable enough st you can chain long actions with success. an extra 9 or little bit of accuracy increase and boost the whole chain
 - adaptive compute, decide how much compute you want to use for each task. using more forward passes
