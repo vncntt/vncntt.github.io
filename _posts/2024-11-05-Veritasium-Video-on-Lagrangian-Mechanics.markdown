@@ -6,7 +6,7 @@ date:   2024-11-05
 
 # Introduction and Basic Principles
 
-Maupertuis's principle of least action states that the action, defined as:
+Maupertuis' principle of least action states that the action, defined as:
 
 \\[ S_0 = \sum mvs \\]
 
