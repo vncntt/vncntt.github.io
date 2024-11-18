@@ -4,6 +4,38 @@ title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
+
+# Dario, Amanda, Chris on Lex 
+
+- data just won't be a bottleneck. synthetic data will work.
+- $100 billion cluster by 2027
+- anthropic's mission is to make AGI go well. they're fine with OpenAI getting there first if it means they do it safely? encouraging other AGI companies to follow safety measures because they'll look bad if Anthropic is doing it but they're not. safe race dynamics lmao
+- anthropic's naming scheme is so cool:
+haiku (short poem): small, fast, cheap model
+sonnet (medium-length poem): medium model
+opus (magnum opus, largest piece of work): smartest, biggest, most powerful model
+- naming models is really hard lmao
+- they do occasional A/B tests before releasing a model
+- it is VERY HARD to just change one thing about the model like "make it apologize less". everything is intertwined.
+
+- two main risks: catastrophic misuse, autonomy (model doing bad things itself)
+- a uniform standard for the entire industry is needed
+- poor regulation is worse than no regulation. if you install bad regulation, it makes everyone conclude that regulation itself must be bad and even when good regulation comes around, there won't be support.
+
+- instead of trying to convince your boss of your vision, just go out and live out the vision. if you're right, your boss will have to follow you later.
+- race to the top instead of the bottom. if everyone is copying everyone's good practices, everyone wins
+
+- talent density is more important than talent mass
+
+- open-mindness is super key. curious exploration of looking at things with new eyes
+- play with the models!
+
+- it's very possible that post-training will cost more than pre-training in the future
+- unhobbling gains from post-training are bigg
+- dario believes timelines will happen in 5-10 years over 5-10 hours or 50-100 years
+- if you try to please a lot of people, what you produce has to be "average"
+(watched the amanda + chris sections without writing stuff down)
+
 # Dylan and Jon on Dwarkesh (9/10)
 - "China has been hacking ASML for five years". wtf huh i gotta read about this 
 - china can poach tsmc employees pretty easily
