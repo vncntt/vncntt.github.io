@@ -34,7 +34,9 @@ opus (magnum opus, largest piece of work): smartest, biggest, most powerful mode
 - unhobbling gains from post-training are bigg
 - dario believes timelines will happen in 5-10 years over 5-10 hours or 50-100 years
 - if you try to please a lot of people, what you produce has to be "average"
-(watched the amanda + chris sections without writing stuff down)
+- circuits and features are the "proteins, veins" of models. are there organs?
+- mech interp engineers live so much better than neuroscientists LMAO
+(watched the amanda + chris sections but didn't write much down)
 
 # Dylan and Jon on Dwarkesh (9/10)
 - "China has been hacking ASML for five years". wtf huh i gotta read about this 
