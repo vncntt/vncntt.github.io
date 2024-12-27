@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Veritasium Video on Lagrangian Mechanics"
+title:  "Principle of Least Action"
 date:   2024-11-05
 ---
+
+I thought [this video](https://www.youtube.com/watch?v=Q10_srZ-pbs) was really fun and wrote up some of the derivations that the video went over quickly.
 
 # Introduction and Basic Principles
 
@@ -114,5 +116,5 @@ which, voila, is just  $F = ma$  which is Newton's second law.
 
 ## Show how Euler-Lagrange's Equation implies Fermat's Principle of Least Time
 todo
-## Write out the Lagrangian for a pendulum
+## Write out the Lagrangian for a double pendulum
 todo

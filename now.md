@@ -19,10 +19,20 @@ permalink: /now/
 - Learning more linear algebra
 - Lots of BJJ -->
 
-# What I'm Doing Now (updated 11/20)
+<!-- # What I'm Doing Now (updated 11/20)
 
-- Taking lin alg, abs alg, probability, cs, neurobio classes, trying to get a 4.0 
+- Taking lin alg, abs alg, probability, cs, neurobio classes, trying to get a 4.0 (succeeded!)
 - Playing tennis, doing bjj
 - Veritasium research 
 - Side quests!
-- Trying to not "talk about what I want to do" but actually "doing"
+- Trying to not "talk about what I want to do" but actually "doing" -->
+
+# What I'm Doing Now (updated 12/26)
+
+- Making videos for Veritasium
+- In NYC until 1/2 (would love to meetup with ppl!)
+- Learning some RL
+- Taking more math classes in school
+
+
+
