@@ -100,4 +100,5 @@ There is still lots to come!
 Hope this ad was convincing and as maybe if you try it out, you will enjoy BJJ as much as I do.
 
 
+Thanks to Grant Slatton for some commments.
 
