@@ -8,10 +8,11 @@ obviously non-exhaustive
 
 <summary>Movies/shows</summary>
 
+- Monster (Japanese movie)<br>
+- The Prestige. It's so good. I don't get how it's not Interstellar-level popular.<br>
 - Alice in Borderland<br>
 - Top Gun<br>
 - Money Heist<br>
-- The Prestige<br>
 - Stranger Things<br>
 - Arrival<br>
 - 火神的眼淚<br >
@@ -25,6 +26,7 @@ obviously non-exhaustive
 - When Breath Becomes Air<br>
 - Tomorrow, and Tomorrow, and Tomorrow<br>
 - How Not to Be Wrong<br>
+- Norwegian Wood<br>
 - There is No Antimemetics Division<br>
 
 
