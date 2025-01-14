@@ -4,7 +4,6 @@ title:  "The Best Sport?"
 date: 2025-01-04
 ---
 
-
 Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching or kicking and you win by gaining dominant positions or submissions such as chokeholds or joint locks.
 
 ## What Makes BJJ Different?

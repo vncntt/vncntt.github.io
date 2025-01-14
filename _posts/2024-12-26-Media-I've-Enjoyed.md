@@ -8,8 +8,9 @@ obviously non-exhaustive
 
 <summary>Movies/shows</summary>
 
-- Monster (Japanese movie)<br>
-- The Prestige. It's so good. I don't get how it's not Interstellar-level popular.<br>
+- Monster (Japanese movie): messes with your head. 8/10<br>
+- Squid Game 
+- The Prestige: It's so good. I don't get how it's not Interstellar-level popular. 10/10<br>
 - Alice in Borderland<br>
 - Top Gun<br>
 - Money Heist<br>
