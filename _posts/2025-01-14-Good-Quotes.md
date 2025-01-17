@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fire Quotes"
+title:  "Good Quotes"
 date:   2025-01-14
 ---
 
