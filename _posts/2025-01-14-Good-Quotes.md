@@ -76,3 +76,4 @@ date:   2025-01-14
 > Aim to be the person who goes "what were you saying?" when someone is interrupted. Aim to be the person who tries to genuinely understand people's point of view. Aim to be the person who smiles when people make eye contact with you. Aim to be the person who actually cares to listen to the answer when you ask people a question. Aim to be the person who waits when you see someone lagging behind the group. Aim to be the person who asks people who seem a bit down whether they want to talk about it. Aim to be the person who invites others to join the group. Aim to be the person who says compliments out loud. Aim to be the person who checks in when someone isolates themselves. Aim to be the person who celebrates other people's success. Aim to be the kind of person you'd like to meet yourself.
 - Umi
 
+"Ideas are cheap; execution is everything."

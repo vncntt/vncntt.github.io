@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Sport?"
+title:  "The Best Sport"
 date: 2025-01-04
 ---
 

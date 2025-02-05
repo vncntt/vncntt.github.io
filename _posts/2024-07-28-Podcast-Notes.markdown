@@ -4,6 +4,42 @@ title:  "Podcast Notes"
 date:   2024-07-28
 ---
 
+# Dylan, Nathan on Lex
+
+- top labs all all have their own crawlers
+- quality of data is crazy underrated
+- v3's main differences: MLA, MoEs
+- Deepseek went below C to assembly-level coding for communications engineering stuff
+- v3 has 256 experts. other models only have ~32. v3 is muchhh more sparse. 
+this sparsity leads to some gpus sitting idle a lot since some experts are used less
+they use auxiliary loss during trianing so all experts are used
+- r/microwavegang caused loss spikes LMAO
+- it's not luck. there are improvements you can make in so many places
+- quant uses a lot of nlp too? processing news articles and whatnot
+- once models get good at long-horizon tasks, spending most of your compute on inference makes a lot of sense
+- misinformation spread due to LLMs was a smaller problem than ppl thought it would be (AI Snake Oil)
+- ai capabilities will have an overhead time period where the limiting factor is that they can't be deployed at scale. they won't be limited by capability
+- china's infra, datacenter, power capacity is not even comparable to the US's
+- china will win in the long-term if AI doesn't change the world in less than 10 years. they will get their own superior chips, have better production, have more energy and mog.
+- "if ai takes a long time to become differentiated, we've decapped the financial performance of american companies" wait i'm not sure how much i buy this. is this because of export controls? 
+you're telling me that china wouldn't have gone full send on making chips if not for these export controls?
+- china at the top level hasn't become totally scale-pilled yet. they haven't committed hard like the US
+- deepseek might be the start of a cold war-esque dynamics
+- an angle for chinese taiwan invasion: "if we can't get access to the chips, no one else should be able to". if tsmc dying hurts others more than themselves, it would make sense.
+
+- who's talking about reverse moore's law? halving the cost of chips every 18 months means doubling the cost of fabs every 18 months. i think the actualy numbers are more like 1.5x more expensive 
+
+- nvidia is the only semiconductor chips that has never had a fab
+- export controls is a clear sign that US does not want to "work with" China on AI. they want to keep this tech in their control by all means possible
+- further instability coming?
+- the world has historically been more peaceful when there is one superpower
+- three axes to think about chips: FLOPS, memory bandwidth, interconnect
+- why is deepseek so fucking cheap? their MLA is a substantial architectural innovation to attention, making memory usage 80-90% less. the attention is still quadratic though. i assume it's some big constant factor reduction.
+- r1 is 27x cheaper than o1 (oai might have priced up a lot)
+- oai has 75% gross margins for inference. that's crazy
+- alibaba and deepseek aren't close to the chinese government
+- race to the top ahh
+- "superhuman persuation will come before superintelligence" hmm what does this look like?
 
 # Dario, Amanda, Chris on Lex 
 
