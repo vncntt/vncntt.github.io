@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Cheng on Vincent</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Vincent Cheng on Vincent</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 01:44:37 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h2 id=&#34;what-im-doing-now-updated-1226&#34;&gt;What I&amp;rsquo;m Doing Now (updated 12/26)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Making videos for Veritasium&lt;/li&gt;&#xA;&lt;li&gt;In NYC until 1/2 (would love to meetup with ppl!)&lt;/li&gt;&#xA;&lt;li&gt;Learning some RL&lt;/li&gt;&#xA;&lt;li&gt;Taking more math classes in school&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 10 Feb 2025 01:44:29 -0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey! I&amp;rsquo;m Vincent Cheng, an freshman Math-CS major at UCSD. I&amp;rsquo;ve attended &lt;a href=&#34;https://rossprogram.org/&#34;&gt;Ross&lt;/a&gt;, &lt;a href=&#34;warp.camp&#34;&gt;WARP&lt;/a&gt;, &lt;a href=&#34;https://ioai-official.org/&#34;&gt;IOAI&lt;/a&gt;, and was an &lt;a href=&#34;https://www.atlasfellowship.org/&#34;&gt;2023 Atlas fellow&lt;/a&gt;.&#xA;I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!&lt;/p&gt;&#xA;&lt;p&gt;I read a lot of articles and save them in my &lt;a href=&#34;https://curius.app/vincent-cheng&#34;&gt;Curius bookshelf&lt;/a&gt;! Check it out and get Curius yourself too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pins</title>
+      <link>http://localhost:1313/notes/2025-02-09-pins/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2025-02-09-pins/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vncntt.github.io/metal_pins/&#34;&gt;Try it out here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>15 Questions</title>
+      <link>http://localhost:1313/notes/2025-02-04-15-questions/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2025-02-04-15-questions/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;What do truly long-context models look like?&#xA;I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.&#xA;I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?&#xA;Predictive processing?&lt;/li&gt;&#xA;&lt;li&gt;What will human-AI collaboration look like in the future?&lt;/li&gt;&#xA;&lt;li&gt;How much software will humans be writing in three years?&#xA;What are the comparative advantages of humans?&lt;/li&gt;&#xA;&lt;li&gt;Is “We don’t need to find the most general, all-modality, solution. We just need to get something good enough to automate research. That’s the goal. After that, there&amp;rsquo;s a clear path and we&amp;rsquo;re just on high-level steering.” wrong?&lt;/li&gt;&#xA;&lt;li&gt;Has someone created a gym environment that is a computer simulation? Actions are anything someone can do on a computer. After each episode, unit tests are run to determine reward. Why are we using screenshots?&lt;/li&gt;&#xA;&lt;li&gt;How much does o1-style reasoning RL transfer to performing long-horizon tasks for computer use?&lt;/li&gt;&#xA;&lt;li&gt;I don’t get how we’re passing the synthetic data wall. Yes, you can use o3 outputs to fine-tune 4o and get a really good o3-mini, but can you use oN outputs to get oN+1?&lt;/li&gt;&#xA;&lt;li&gt;Can you get two models to communicate through residual streams and not text? Or CoT in the latent space instead of writing everything out? Is this desirable? How do you get training data for this?&#xA;A quick perplexity search &lt;a href=&#34;https://transformer-circuits.pub/2023/privileged-basis/index.html&#34;&gt;gets&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/html/2406.03230v2&#34;&gt;me&lt;/a&gt; &lt;a href=&#34;https://www.alignmentforum.org/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability&#34;&gt;these&lt;/a&gt; &lt;a href=&#34;https://www.reddit.com/r/LocalLLaMA/comments/1gxxqs9/why_should_thoughts_be_word_tokens_in_o1_style/&#34;&gt;links&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;We have text-to-text, text-to-image, text-to-video. What is the SOTA for text-to-action tokens in robots? There must be a way to leverage the understanding of the world language models have to robotics. How?&lt;/li&gt;&#xA;&lt;li&gt;How much do traders use ML? It seems like a ripe field for it. Lots of money, data, smart people… Everything is probably private.&lt;/li&gt;&#xA;&lt;li&gt;Why is Moravec’s paradox true?&lt;/li&gt;&#xA;&lt;li&gt;How is Adam still the best optimizer after 10 years? `&lt;/li&gt;&#xA;&lt;li&gt;How do lightweight code-generation models like Cursor’s work?&lt;/li&gt;&#xA;&lt;li&gt;What is going on in interpretability these days?&lt;/li&gt;&#xA;&lt;li&gt;Why are all the benchmarks in math and coding competitions? What happened to physics?&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/notes/2025-01-17-ideas/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2025-01-17-ideas/</guid>
+      <description>&lt;p&gt;Time is limited. These are ideas I&amp;rsquo;ve had, which given infinite time, I would explore.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JARVIS. Models are capable enough already! We just need some better scaffolding like Cursor and some way to fit in a lot of context. I really liked GPT with scheduled tasks. If you patch 20 of these together, you get a really good assistant. One that would be &lt;em&gt;proactive&lt;/em&gt;. I don&amp;rsquo;t want to ever miss a call again.&lt;/li&gt;&#xA;&lt;li&gt;Portable cameraman.&#xA;Small, flying, self-adjusting camera? I really dislike taking photos but enjoy looking at them later on.&lt;/li&gt;&#xA;&lt;li&gt;Surfing footage drone.&#xA;Before surfing, I set off a drone which follows me and records cool footage of me catching waves.&lt;/li&gt;&#xA;&lt;li&gt;Implement needle in a haystack.&#xA;I swear my experience with using models don&amp;rsquo;t correspond with the needle in a haystack results they put out.&#xA;The current &amp;ldquo;insert random sentence&amp;rdquo; method doesn&amp;rsquo;t seem great either.&#xA;Combining facts from the beginning and the end, simple reasoning steps, and&lt;/li&gt;&#xA;&lt;li&gt;Machine translation through steering vectors?&lt;/li&gt;&#xA;&lt;li&gt;Give Claude/GPT/&amp;hellip; a decent prompt and scaffolding and let it loose on X.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/notes/2025-01-14-good-quotes/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2025-01-14-good-quotes/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Man In The Arena&lt;/p&gt;&#xA;&lt;p&gt;“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Best Sport</title>
+      <link>http://localhost:1313/notes/2025-01-04-the-best-sport/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2025-01-04-the-best-sport/</guid>
+      <description>&lt;p&gt;Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching or kicking and you win by gaining dominant positions or submissions such as chokeholds or joint locks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-bjj-different&#34;&gt;What Makes BJJ Different?&lt;/h2&gt;&#xA;&lt;p&gt;BJJ is the &amp;ldquo;broadest&amp;rdquo; sport I&amp;rsquo;ve done.&#xA;It feels like math in the sense that you have so many distinct, but related, concepts to learn and problem-solving to do.&#xA;In tennis or basketball, I felt like after building up the basics, I was repetitively honing small details to eek out 1-3% improvements (which can definitely still be fun).&#xA;In BJJ, there are black belts who are still not familiar with many positions.&#xA;There is definitely still lots of practice spent honing details of specific moves, but it feels like there is more pure learning (compared to refining) going on.&#xA;Given any move or position, you can break it down into broad principles, details, counters, and counter counters.&#xA;It&amp;rsquo;s a lot like physical chess.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media I&#39;ve Enjoyed</title>
+      <link>http://localhost:1313/notes/2024-12-26-media-ive-enjoyed/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-12-26-media-ive-enjoyed/</guid>
+      <description>&lt;p&gt;obviously non-exhaustive&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monster (Japanese movie): messes with your head. 8/10&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Squid Game&lt;/li&gt;&#xA;&lt;li&gt;The Prestige: It&amp;rsquo;s so good. I don&amp;rsquo;t get how it&amp;rsquo;s not Interstellar-level popular. 10/10&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Alice in Borderland&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Top Gun&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Money Heist&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Stranger Things&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Arrival&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;火神的眼淚&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;模仿犯&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Open (Agassi biography)&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Three Body Problem series&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;When Breath Becomes Air&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Tomorrow, and Tomorrow, and Tomorrow&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;How Not to Be Wrong&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Norwegian Wood&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;There is No Antimemetics Division&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Thoughts On Cursor</title>
+      <link>http://localhost:1313/notes/2024-11-09-thoughts-on-cursor/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-11-09-thoughts-on-cursor/</guid>
+      <description>&lt;p&gt;My opinion of Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;&#xA;&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href=&#34;https://github.com/vncntt/webbot&#34;&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;&#xA;&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;&#xA;&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Principle of Least Action</title>
+      <link>http://localhost:1313/notes/2024-11-05-principle-of-least-action/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-11-05-principle-of-least-action/</guid>
+      <description>&lt;p&gt;I thought &lt;a href=&#34;https://www.youtube.com/watch?v=Q10_srZ-pbs&#34;&gt;this video&lt;/a&gt; was really fun and wrote up some of the derivations that the video went over quickly.&lt;/p&gt;&#xA;&lt;h1 id=&#34;introduction-and-basic-principles&#34;&gt;Introduction and Basic Principles&lt;/h1&gt;&#xA;&lt;p&gt;Maupertuis&amp;rsquo; principle of least action states that the action, defined as:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;S_0 = \sum mvs&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.&lt;/p&gt;&#xA;&lt;p&gt;Euler later generalized this to a continuous form:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weird Things in High Dimensions</title>
+      <link>http://localhost:1313/notes/2024-11-05-weird-/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-11-05-weird-/</guid>
+      <description>&lt;p&gt;Some weird stuff happens in high-dimensions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/aryehazan/status/1817877048053911912&#34;&gt;Reference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-high-dimensional-oranges-are-almost-all-peelhttpsxcomtszzlstatus1817081479190708528&#34;&gt;1. &lt;a href=&#34;https://x.com/tszzl/status/1817081479190708528&#34;&gt;High Dimensional Oranges Are Almost All Peel&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&amp;ldquo;pulp&amp;rdquo;) surrounded by a $0.1$-width border (&amp;ldquo;peel&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Dimensions&lt;/th&gt;&#xA;          &lt;th&gt;Pulp Volume ($0.8^n$)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;0.800&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;0.640&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;0.512&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;0.328&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;0.107&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20&lt;/td&gt;&#xA;          &lt;td&gt;0.012&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;50&lt;/td&gt;&#xA;          &lt;td&gt;0.000014&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/Jsevillamol/status/1817213852402303024&#34;&gt;Another perspective&lt;/a&gt;: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watch More YouTube</title>
+      <link>http://localhost:1313/notes/2024-09-20-watch-more-youtube/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-09-20-watch-more-youtube/</guid>
+      <description>&lt;p&gt;Many people have written about curating a very &lt;a href=&#34;https://near.blog/how-to-twitter-successfully/&#34;&gt;good&lt;/a&gt; &lt;a href=&#34;https://nabeelqu.co/twitter&#34;&gt;Twitter&lt;/a&gt; &lt;a href=&#34;https://near.blog/how-to-twitter-successfully/&#34;&gt;feed&lt;/a&gt;, but I have yet to see anyone talk about doing this with Youtube. I don&amp;rsquo;t know if many people do it but don&amp;rsquo;t talk about it, don&amp;rsquo;t do it, or what. I guess &amp;ldquo;subscribe to tons of accounts you enjoy, use the &amp;ldquo;Not Interested&amp;rdquo; for ones you want to avoid, and harvest&amp;rdquo; is not very deep.&lt;/p&gt;&#xA;&lt;p&gt;YouTube’s algorithm is very good at recommending content you would enjoy and I’ve more consciously used that to curate my YouTube feed towards content I enjoy (mostly technical). I&amp;rsquo;ve discovered high-quality channels with fewer than 1k subscribers that wouldn&amp;rsquo;t have appeared in my feed if I hadn&amp;rsquo;t been more intentional. As a result, my YouTube feed feels like a mix of a science fair, machine learning conference, math club, hackathon, and symposium.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Podcast Notes</title>
+      <link>http://localhost:1313/notes/2024-07-28-podcast-notes/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-07-28-podcast-notes/</guid>
+      <description>&lt;h1 id=&#34;dylan-nathan-on-lex&#34;&gt;Dylan, Nathan on Lex&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;top labs all all have their own crawlers&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;quality of data is crazy underrated&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;v3&amp;rsquo;s main differences: MLA, MoEs&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Deepseek went below C to assembly-level coding for communications engineering stuff&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;v3 has 256 experts. other models only have ~32. v3 is muchhh more sparse.&#xA;this sparsity leads to some gpus sitting idle a lot since some experts are used less&#xA;they use auxiliary loss during trianing so all experts are used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is this?</title>
+      <link>http://localhost:1313/notes/2024-07-25-what-is-this/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2024-07-25-what-is-this/</guid>
+      <description>&lt;p&gt;I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I&amp;rsquo;m reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends.&lt;/p&gt;&#xA;&lt;p&gt;Through this notebook, I hope to &amp;ldquo;produce&amp;rdquo; more and write better. For the longest time, I&amp;rsquo;ve been thinking my consuming to producing ratio has been higher than I would like, and hence I&amp;rsquo;m forcing myself to do more frequent, scrappy writeups (also &lt;a href=&#34;https://www.swyx.io/learn-in-public&#34;&gt;Learning in Public&lt;/a&gt;). Also, friends have told me about how valuable writing well is yet I&amp;rsquo;ve never actually written much outside of school. Writing more, and in public, will hopefully speedrun me becoming a better writer (please give me feedback if you have any!).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything is Wrong</title>
+      <link>http://localhost:1313/notes/incomplete2024-12-17-everything-is-wrong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/incomplete2024-12-17-everything-is-wrong/</guid>
+      <description>&lt;p&gt;This idea has been mulling around in my head in various forms for a while:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Everything is wrong&lt;/li&gt;&#xA;&lt;li&gt;Nuance&lt;/li&gt;&#xA;&lt;li&gt;Dualities&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/&#34;&gt;Reverse any advice you hear&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Levels of abstraction&lt;/li&gt;&#xA;&lt;li&gt;There is no &amp;ldquo;wrong&amp;rdquo; advice, only personalized advice.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This manifests in my thought process as a&lt;/p&gt;&#xA;&lt;p&gt;This had led to me to not have strong takes on things anymore which seems wrong too.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve also heard others talk about this &lt;a href=&#34;https://x.com/morqon/status/1667717155234758657&#34;&gt;as&lt;/a&gt; &lt;a href=&#34;https://sashachapin.substack.com/p/almost-everything-ive-written-seems?utm_source=%2Finbox&amp;amp;utm_medium=reader2&#34;&gt;well&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;What does this imply?&#xA;The advice you are giving now will likely be wrong to future you?&#xA;You shouldn&amp;rsquo;t be giving advice?&#xA;You shouldn&amp;rsquo;t have strong takes on things ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Truly Long Context</title>
+      <link>http://localhost:1313/notes/incomplete2025-01-21-truly-long-context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/incomplete2025-01-21-truly-long-context/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://x.com/gallabytes/status/1881124186669879401&#34;&gt;Inspiration&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;2 million tokens is not enough. Or rather it&amp;rsquo;s just a&lt;/p&gt;&#xA;&lt;p&gt;In the thread, the author talks about &amp;ldquo;softening the train time versus inference time disctintion.&amp;rdquo;&#xA;We as humans operate this way.&#xA;Our inference and training are done together in some sense.&#xA;A theory for this is predictive processing.&lt;/p&gt;&#xA;&lt;p&gt;I want a model that knows everything about me: a best friend, assistant, mentor, etc.&lt;/p&gt;&#xA;&lt;p&gt;What does this look like?&#xA;I&lt;/p&gt;&#xA;&lt;p&gt;Right now, each conversation is fresh and new.&#xA;I hate this.&#xA;I want to model to know what I was thinking about and working on yesterday as well as 2 months ago.&#xA;Something in between training on all my previous chats and just stuffing it in the context.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

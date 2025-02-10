@@ -1,0 +1,39 @@
+baseURL = 'https://vncntt.github.io'
+languageCode = 'en-us'
+title = 'Vincent'
+theme = "paper"
+
+# Add this menu section
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 20
+
+  # Add more buttons as needed, for example:
+  [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    url = "/now/"
+    weight = 30
+
+[params]
+  # Your profile picture
+  avatar = "/vincent.JPG"
+  
+  # Enable math typesetting
+  math = true
+  
+  # Add KaTeX support
+  katex = true
+  
+  # Empty mainSections means nothing shows on homepage
+  # mainSections = ["about"]
+
