@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Principle of Least Action"
-date:   2024-11-05
----
++++
+date = '2024-11-05T00:00:00-08:00'
+draft = false
+title = 'Principle of Least Action'
++++
 
 I thought [this video](https://www.youtube.com/watch?v=Q10_srZ-pbs) was really fun and wrote up some of the derivations that the video went over quickly.
 

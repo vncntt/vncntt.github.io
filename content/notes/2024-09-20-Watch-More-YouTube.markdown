@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Watch More YouTube"
-date:   2024-09-20
----
++++
+date = '2024-09-20T00:00:00-08:00'
+draft = false
+title = "Watch More YouTube"
++++
 
 Many people have written about curating a very [good](https://near.blog/how-to-twitter-successfully/) [Twitter](https://nabeelqu.co/twitter) [feed](https://near.blog/how-to-twitter-successfully/), but I have yet to see anyone talk about doing this with Youtube. I don't know if many people do it but don't talk about it, don't do it, or what. I guess "subscribe to tons of accounts you enjoy, use the "Not Interested" for ones you want to avoid, and harvest" is not very deep. 
 

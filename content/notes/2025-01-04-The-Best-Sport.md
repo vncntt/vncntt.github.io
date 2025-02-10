@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The Best Sport"
-date: 2025-01-04
----
++++
+date = '2025-01-04T00:00:00-08:00'
+draft = false
+title = 'The Best Sport'
++++
 
 Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching or kicking and you win by gaining dominant positions or submissions such as chokeholds or joint locks.
 
@@ -65,7 +65,7 @@ I co-started an underground Fight Club-type BJJ group because of this.
 
 1. BJJ is impossible to watch if you haven't trained extensively before. 
 My dad watched tennis for 20 years without ever playing before. 
-In BJJ, you won’t understand anything if you haven’t practiced somewhat regularly. 
+In BJJ, you won't understand anything if you haven't practiced somewhat regularly. 
 I still understand very little of what's going on when watching leglock positions.
 2. 
 Many competitions have different rulesets which makes the sport near impossible to be standardized into something like the Olympics. 
@@ -82,7 +82,7 @@ I have tried converting many friends to BJJ but have only partially succeeded fo
 ## Is it dangerous?
 I've recently had some mental blocks with being scared to go hard during training because of this as well, but BJJ is not very dangerous if you have good training partners and a good coach. 
 Be sure to learn good practices and you'll be fine.
-I haven’t gotten hurt at all other than a sprained pinky and thumb and more recently a slight pop from an armbar (my own fault 😭). 
+I haven't gotten hurt at all other than a sprained pinky and thumb and more recently a slight pop from an armbar (my own fault 😭). 
 It's the safest way to get the thrill of combat sports!
 I can't say much about the physical effects of BJJ on a 10-20 year time scale though...
 

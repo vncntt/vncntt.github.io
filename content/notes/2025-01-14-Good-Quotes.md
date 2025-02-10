@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Quotes"
-date:   2025-01-14
----
++++
+date = '2025-01-14T00:00:00-08:00'
+draft = false
+title = 'Quotes'
++++
 
 > The Man In The Arena 
 > 
@@ -45,7 +45,7 @@ date:   2025-01-14
 > Any sufficiently advanced technology is indistinguishable from magic.
 - Arthur C. Clarke
 
-> Even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you’ve lost the source of. It works, but you don’t know why.
+> Even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.
 - Paul Graham
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
@@ -53,7 +53,7 @@ date:   2025-01-14
 
 > Some games are not worth winning.
 
-> Now I suggest to you that a group of us could be sitting around after dinner, discussing matters that were extremely serious like the education of our children, or our marriages, or the meaning of life, and we could be laughing, and that would not make what we were discussing one bit less serious. Solemnity, on the other hand, I honestly don’t know what it’s for. I mean, what is the point of it? The two most beautiful memorial services that I’ve ever attended both had a lot of humor and it freed us all and made the services inspiring and cathartic. But solemnity, it serves pomposity. And the self-important always know, at some level of their consciousness, that their egotism is going to be punctured by humor. That’s why they see it as a threat.
+> Now I suggest to you that a group of us could be sitting around after dinner, discussing matters that were extremely serious like the education of our children, or our marriages, or the meaning of life, and we could be laughing, and that would not make what we were discussing one bit less serious. Solemnity, on the other hand, I honestly don't know what it's for. I mean, what is the point of it? The two most beautiful memorial services that I've ever attended both had a lot of humor and it freed us all and made the services inspiring and cathartic. But solemnity, it serves pomposity. And the self-important always know, at some level of their consciousness, that their egotism is going to be punctured by humor. That's why they see it as a threat.
 - John Cleese
 
 > You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.

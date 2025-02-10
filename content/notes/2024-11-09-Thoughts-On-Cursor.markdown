@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Thoughts On Cursor"
-date:   2024-11-09
----
++++
+date = '2024-11-09T00:00:00-08:00'
+draft = false
+title = 'Thoughts On Cursor'
++++
 
 My opinion of Cursor helps or hinders my work has fluctuated significantly over the past few months.
 
@@ -17,7 +17,7 @@ The second way is when I'm not writing much code but rather prompting and then c
 This feels magical because I see results immediately, when normally I would've had to learn some syntax, read some tutorials, and crawled through docs. 
 
 
-But, when the codebase gets larger, my cracks in understanding compound and I hit a bug where I’m just lost. 
+But, when the codebase gets larger, my cracks in understanding compound and I hit a bug where I'm just lost. 
 I can iteratively prompt the model asking it to help me with debugging, but I'm almost entirely limited by the ability of the model.
 I can't take the reins myself from this point either since I didn't really know what was going on the entire time.
 Good prompting can take you much further, but often not enough.

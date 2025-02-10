@@ -1,8 +1,8 @@
----
-layout: post
-title:  "What is this?"
-date:   2024-07-25 
----
++++
+date = '2024-07-25T00:00:00-08:00'
+draft = false
+title = 'What is this?'
++++
 
 I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I'm reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends. 
 

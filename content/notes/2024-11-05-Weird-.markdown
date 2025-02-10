@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Weird Things in High Dimensions"
-date:   2024-11-05
----
++++
+date = '2024-11-05T00:00:00-08:00'
+draft = false
+title = 'Weird Things in High Dimensions'
++++
 
 Some weird stuff happens in high-dimensions. 
 

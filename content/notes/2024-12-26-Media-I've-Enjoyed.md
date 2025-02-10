@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Media I've Enjoyed"
-date:   2024-12-26
----
++++
+date = '2024-12-26T00:00:00-08:00'
+draft = false
+title = "Media I've Enjoyed"
++++
 
 obviously non-exhaustive
 
