@@ -37,3 +37,11 @@ theme = "paper"
   # Empty mainSections means nothing shows on homepage
   # mainSections = ["about"]
 
+  twitter = 'vvvincent_c'
+  github = 'vncntt'
+
+  name = 'Vincent Cheng'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
