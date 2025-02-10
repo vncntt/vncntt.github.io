@@ -40,6 +40,15 @@ you're telling me that china wouldn't have gone full send on making chips if not
 - alibaba and deepseek aren't close to the chinese government
 - race to the top ahh
 - "superhuman persuation will come before superintelligence" hmm what does this look like?
+- LMAO someone from the gemini team working on long context got poached to Meta which basically means the next Llama will have 1M context length too
+- meta's power_plant_no_blow_up operation in pytorch
+- what is tranium, amazon's chip
+- superclusters are for training. you have all gpus connected by high speed networking. you can do inference in scattered, smaller datacenters.
+- why doesn't google sell tpus?
+some of tpu design is optimized for google-specific tasks: youtube, search, ...
+- aws generates 60+% of amazon's profit. that is crazy. it's only ~15% of the revenue but has much higher margins.
+- snapchat was on an exponential growth (quarterly growth rates of 17%) but then instagram introduced stories which led snapchat's growth to flatline. software engineers = snapchat, good ai systems = instagram stories?
+
 
 # Dario, Amanda, Chris on Lex 
 

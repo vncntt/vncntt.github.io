@@ -1,0 +1,3 @@
+[submodule "projects/metal_pins"]
+	path = projects/metal_pins
+	url = https://github.com/vncntt/metal_pins.git
