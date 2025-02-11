@@ -1,6 +1,6 @@
 baseURL = 'https://vncntt.github.io'
 languageCode = 'en-us'
-title = 'Vincent Cheng'
+title = 'Vincent'
 theme = "paper"
 
 # Add this menu section
@@ -25,6 +25,8 @@ theme = "paper"
     weight = 30
 
 [params]
+  # Your profile picture
+  avatar = "/vincent.JPG"
   
   # Enable math typesetting
   math = true
@@ -38,9 +40,15 @@ theme = "paper"
   twitter = 'vvvincent_c'
   github = 'vncntt'
 
-  name = ' '
+  name = 'Vincent Cheng'
+
+  # Disable both light/dark mode icons
+  monoDarkIcon = false
+  monoLightIcon = false
   
-  bio = 'Hi! 👋'
+  avatar = 'nanxiaobei@gmail.com'
+  name = 'Vincent Cheng'
+  bio = 'Discover fresh context'
 
 [module]
   [[module.imports]]
