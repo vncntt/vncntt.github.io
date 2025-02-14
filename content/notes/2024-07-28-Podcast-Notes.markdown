@@ -31,9 +31,8 @@ The MoE discussions at the end were more interesting.
 
 The current static nature of models is not the greatest but 
 Jeff talked about how it would be nice to make "surgical incisions" into the model: re-train some modules, add some connections here and there, and just a lot more flexibility.
-I think this might be one of those things that sound pretty nice in practice but isn't the most practical thing to do right now ->
+I think this might be one of those things that sound pretty nice in practice but isn't the most practical thing to do right [now](https://www.youtube.com/watch?v=3gb-ZkVRemQ&t=2590s)
 
-![../image.png](../../public/image.png)
 
 Distillation seems like something super valuable to work on that doesn't require a lot of compute.
 
