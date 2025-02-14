@@ -4,6 +4,52 @@ draft = false
 title = 'Podcast Notes'
 +++
 
+# Noam Shazeer and Jeff Dean on Dwarkesh
+
+- arithmetic very cheap. moving data around is expensive.
+- model parameters are very memory efficient: 
+- one fact per parameter? (this probably isn't the right way to think about it because of superposition?) versus in context, there are kqv which can many more bits
+- inference improvement thing? big model verifier, small model does it first thing?? "drafter models". are these real? i don't see how these parallelize. oh wait no you can batch it so it goes drafter -> actual -> drafter -> actual ...
+- continual learning
+- big blog of surgical incisions for models instead of everything from scratch. much more DIY and fluid
+- MoEs are pretty interpretable. you can see when each expert is used
+- when running MoEs in inference, you still need all 500 or something experts in memory. you are serving at high batch size where everything's independent
+- currently, MoE sizes are all ~the same. this probably isn't ideal.
+- we need better distillation methods!!!
+- netiher of them seem very safety-pilled
+- there's still a lot to get from the textual data today. we're not milking it all yet. 
+- what're some better loss functions than next token prediction?
+- there's a lot of learning you can do without external data.
+
+- noam is that super humble and nice friend that just mogs you at everything
+
+
+This episode was slightly underwhelming. 
+I don't think there was as much novelty as I was expecting given the guests.
+The entire first half was basically very vague hand-wavy stuff that I've heard numerous times before.
+The MoE discussions at the end were more interesting. 
+
+The current static nature of models is not the greatest but 
+Jeff talked about how it would be nice to make "surgical incisions" into the model: re-train some modules, add some connections here and there, and just a lot more flexibility.
+I think this might be one of those things that sound pretty nice in practice but isn't the most practical thing to do right now ->
+
+![../image.png](../../public/image.png)
+
+Distillation seems like something super valuable to work on that doesn't require a lot of compute.
+
+- How many epochs of the entire Internet do current models go through?
+- 
+
+What would I have asked Jeff and Noam?
+- How does Google's structure look in 5 years? Will there be much fewer engineers because these models are better than most people?
+- Will inference get so expensive that human engineers are literally cheaper?
+- some selection of my 15 Questions list
+- How do you think about the competition landscape?
+- What does your post-TAI life look like?
+- something about how Gemini/Deepmind/other teams work together
+
+ok maybe coming up with good questions is kinda hard.
+
 # Dylan, Nathan on Lex
 
 - top labs all all have their own crawlers
