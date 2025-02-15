@@ -51,7 +51,7 @@
   />
 
   
-  <title>What is this? - Vincent Cheng</title>
+  <title>Weird Things in High Dimensions - Vincent Cheng</title>
 
   
   <meta name="theme-color" />
@@ -60,8 +60,50 @@
   
   
   
-  <meta name="description" content="I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I&rsquo;m reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends.
-Through this notebook, I hope to &ldquo;produce&rdquo; more and write better. For the longest time, I&rsquo;ve been thinking my consuming to producing ratio has been higher than I would like, and hence I&rsquo;m forcing myself to do more frequent, scrappy writeups (also Learning in Public). Also, friends have told me about how valuable writing well is yet I&rsquo;ve never actually written much outside of school. Writing more, and in public, will hopefully speedrun me becoming a better writer (please give me feedback if you have any!)." />
+  <meta name="description" content="Some weird stuff happens in high-dimensions.
+Reference
+1. High Dimensional Oranges Are Almost All Peel
+Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&ldquo;pulp&rdquo;) surrounded by a $0.1$-width border (&ldquo;peel&rdquo;).
+The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:
+
+  
+      
+          Dimensions
+          Pulp Volume ($0.8^n$)
+      
+  
+  
+      
+          1
+          0.800
+      
+      
+          2
+          0.640
+      
+      
+          3
+          0.512
+      
+      
+          5
+          0.328
+      
+      
+          10
+          0.107
+      
+      
+          20
+          0.012
+      
+      
+          50
+          0.000014
+      
+  
+
+Another perspective: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases." />
   <meta name="author" content=" " />
   
 
@@ -294,12 +336,12 @@ Through this notebook, I hope to &ldquo;produce&rdquo; more and write better. Fo
 
 <article>
   <header class="mb-14">
-    <h1 class="!my-0 pb-2.5">What is this?</h1>
+    <h1 class="!my-0 pb-2.5">Weird Things in High Dimensions</h1>
 
     
     <div class="text-xs antialiased opacity-60">
       
-      <time>Jul 25, 2024</time>
+      <time>Nov 5, 2024</time>
       
       
       
@@ -308,13 +350,63 @@ Through this notebook, I hope to &ldquo;produce&rdquo; more and write better. Fo
     
   </header>
 
-  <section><p>I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I&rsquo;m reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends.</p>
-<p>Through this notebook, I hope to &ldquo;produce&rdquo; more and write better. For the longest time, I&rsquo;ve been thinking my consuming to producing ratio has been higher than I would like, and hence I&rsquo;m forcing myself to do more frequent, scrappy writeups (also <a href="https://www.swyx.io/learn-in-public">Learning in Public</a>). Also, friends have told me about how valuable writing well is yet I&rsquo;ve never actually written much outside of school. Writing more, and in public, will hopefully speedrun me becoming a better writer (please give me feedback if you have any!).</p>
-<p>This page will help existing friends get to know me better along with reaching others who share my interests and would be great friends. Perhaps some of them will come across this and decide to reach out! My thoughts might also be helpful/interesting to some.</p>
-<p>Each post will spontaneously be edited/added to (this is an edit).</p>
-<p>All in all, this has been way overdue. I finally made this due to Jekyll being frictionless to set up, <a href="https://x.com/vvvincent_c/status/1816156750837604806">this post</a>, feeling high-agency today, and resonating too much with this quote below from Rohan Selva-Radov.</p>
-<blockquote>
-<p>In the past, I erred very strongly on the side of keeping my thoughts entirely to myself. Now I want to give the other extreme a go.</p></blockquote>
+  <section><p>Some weird stuff happens in high-dimensions.</p>
+<p><a href="https://x.com/aryehazan/status/1817877048053911912">Reference</a></p>
+<h2 id="1-high-dimensional-oranges-are-almost-all-peelhttpsxcomtszzlstatus1817081479190708528">1. <a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel</a></h2>
+<p>Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&ldquo;pulp&rdquo;) surrounded by a $0.1$-width border (&ldquo;peel&rdquo;).</p>
+<p>The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Dimensions</th>
+          <th>Pulp Volume ($0.8^n$)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>0.800</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>0.640</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>0.512</td>
+      </tr>
+      <tr>
+          <td>5</td>
+          <td>0.328</td>
+      </tr>
+      <tr>
+          <td>10</td>
+          <td>0.107</td>
+      </tr>
+      <tr>
+          <td>20</td>
+          <td>0.012</td>
+      </tr>
+      <tr>
+          <td>50</td>
+          <td>0.000014</td>
+      </tr>
+  </tbody>
+</table>
+<p><a href="https://x.com/Jsevillamol/status/1817213852402303024">Another perspective</a>: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases.</p>
+<p>In high dimensions, the volume is almost all in the surface.</p>
+<h2 id="2-unit-spheres-get-smaller-in-high-dimensions">2. Unit spheres get smaller in high dimensions</h2>
+<p>todo</p>
+<p>This is very weird and requires non-trivial math to show.
+<a href="https://en.wikipedia.org/wiki/Volume_of_an_n-ball">Wikepdia</a></p>
+<p><a href="https://x.com/RokoMijic/status/1818073988805152801">Good twitter post talking about this</a></p>
+<p><a href="https://x.com/MaskedTorah/status/1818188397087015147">Drake</a> came up with a good explanation which is explained <a href="https://x.com/RokoMijic/status/1818273024526733319">here</a></p>
+<h2 id="3-spheres-spill-out-in-higher-dimensionshttpsstanislavfortcomblogsphere-spilling-out">3. <a href="https://stanislavfort.com/blog/sphere-spilling-out/">Spheres &ldquo;spill out&rdquo; in higher dimensions</a></h2>
+<p>todo</p>
+<h2 id="4-randomly-chosen-vectors-in-high-dimensional-spaces-are-almost-all-orthogonal">4. Randomly chosen vectors in high-dimensional spaces are almost all orthogonal</h2>
+<p>todo</p>
+<h2 id="5-local-minima-are-rare">5. Local minima are rare</h2>
+<p>todo</p>
 </section>
 
   
@@ -328,10 +420,14 @@ Through this notebook, I hope to &ldquo;produce&rdquo; more and write better. Fo
     class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   >
     
-    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/notes/2024-07-28-podcast-notes/"
-      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Podcast Notes</span></a
+    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/notes/principle-of-least-action/"
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Principle of Least Action</span></a
     >
     
+    
+    <a class="ltr:ml-auto rtl:mr-auto justify-end pl-3" href="http://localhost:1313/notes/watch-more-youtube/"
+      ><span>Watch More YouTube</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    >
     
   </nav>
   
