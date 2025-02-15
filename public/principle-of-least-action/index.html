@@ -51,7 +51,7 @@
   />
 
   
-  <title>Vincent Cheng</title>
+  <title>Principle of Least Action - Vincent Cheng</title>
 
   
   <meta name="theme-color" />
@@ -60,11 +60,14 @@
   
   
   
-  
-  <meta
-    name="description"
-    content="A personal blog"
-  />
+  <meta name="description" content="I thought this video was really fun and wrote up some of the derivations that the video went over quickly.
+Introduction and Basic Principles
+Maupertuis&rsquo; principle of least action states that the action, defined as:
+$$
+S_0 = \sum mvs
+$$
+where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.
+Euler later generalized this to a continuous form:" />
   <meta name="author" content=" " />
   
 
@@ -98,6 +101,12 @@
   
 
   
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
   
 
   
@@ -289,53 +298,160 @@
     >
       
 
+<article>
+  <header class="mb-14">
+    <h1 class="!my-0 pb-2.5">Principle of Least Action</h1>
 
+    
+    <div class="text-xs antialiased opacity-60">
+      
+      <time>Nov 5, 2024</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0">Podcast Notes</h2>
-  <time class="text-xs antialiased opacity-60"
-    >Jul 28, 2024</time
-  >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/podcast-notes/">Podcast Notes</a>
+  <section><p>I thought <a href="https://www.youtube.com/watch?v=Q10_srZ-pbs">this video</a> was really fun and wrote up some of the derivations that the video went over quickly.</p>
+<h1 id="introduction-and-basic-principles">Introduction and Basic Principles</h1>
+<p>Maupertuis&rsquo; principle of least action states that the action, defined as:</p>
+<p>$$
+S_0 = \sum mvs
+$$</p>
+<p>where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.</p>
+<p>Euler later generalized this to a continuous form:</p>
+<p>$$
+S = \int mv ds
+$$</p>
+<p>This formulation holds only for systems with constant energy.</p>
+<p>Consider a true path $x(t)$ and a nearby path $x(t) + \eta(t)$, where $\eta(t)$ is a small perturbation.
+Similar to how, at the minimum, of a parabola if you move a small distance the value of the function doesn&rsquo;t change much, you can show that the actions of these
+two paths are the same up to first order in  $\eta$.</p>
+<p>As with any minimum, the first-order variation in the action vanishes:</p>
+<p>$$
+\delta S = 0
+$$</p>
+<p>where $\delta S$ represents the first variation of the action functional (some theorem in calculus of variations).</p>
+<h1 id="full-derivation-of-lagrangian-equation">Full Derivation of Lagrangian Equation</h1>
+<p>Starting from</p>
+<p>$$
+\delta S = 0
+$$
+with
+$$
+S = \int mv ds
+$$
+, we get</p>
+<p>$$
+\delta \int mv ds = 0.
+$$</p>
+<p>Using $v = \frac{ds}{dt}$,</p>
+<p>$$
+\delta \int m v^2 dt = 0.
+$$</p>
+<p>Since kinetic energy is $T = \frac{1}{2} mv^2$,</p>
+<p>$$
+\delta \int 2T dt = 0.
+$$</p>
+<p>We also know that the total energy $E = T + V$ which means</p>
+<p>$$
+\delta \int (T - V + E) dt = 0.
+$$</p>
+<p>which splits into</p>
+<p>$$
+\delta \int (T - V) dt + \delta \int E dt = 0.
+$$</p>
+<p>Since energy is constant,</p>
+<p>$$
+\delta \int (T - V) dt + \delta(Et)= 0.
+$$</p>
+<p>Applying the variation product rule:</p>
+<p>$$
+\delta \int (T - V) dt + E \delta t + t \delta E = 0.
+$$</p>
+<p>Euler showed that:</p>
+<ol>
+<li>Energy is constant along each path ($t \delta E = 0$)</li>
+<li>We only consider paths with equal duration ($E \delta t = 0$)</li>
+</ol>
+<p>Therefore:</p>
+<p>$$
+\delta \int (T - V) dt = 0.
+$$</p>
+<p>This is Hamilton&rsquo;s principle, where $L = T - V$ is the Lagrangian:</p>
+<p>$$
+\delta \int L dt = 0.
+$$</p>
+<h1 id="deriving-fma">Deriving $F=ma$</h1>
+<p>Consider a path $y(t)$ with perturbation $\eta(t)$, giving $q(t) = y(t) + \eta(t)$. The action variation is:</p>
+<p>$$
+\delta S = S[q(t)] - S[y(t)]
+$$</p>
+<p>Computing the action for both paths:</p>
+<p>$$
+\begin{align*}
+S[q(t)] = \int_{t_1}^{t_2} \left( \frac{1}{2} m \left( \frac{dy}{dt} \right)^2 - V(y) \right) , dt + \int_{t_1}^{t_2} \left( m \frac{dy}{dt} \frac{d\eta}{dt} - \eta V&rsquo;(y) \right) , dt
+\end{align*}
+$$</p>
+<p>$$
+S[y(t)] = \int_{t_1}^{t_2} \left( \frac{1}{2} m \left( \frac{dy}{dt} \right)^2 - V(y) \right) , dt
+$$</p>
+<p>After cancellation, we get</p>
+<p>$$
+\delta S = \int_{t_1}^{t_2} \left( m \frac{dy}{dt} \frac{d\eta}{dt} - \eta V&rsquo;(y) \right) , dt
+$$
+which doing some integration by parts (also using something called variation must vanish at endpoints) gives us</p>
+<p>$$
+\delta S = \int_{t_1}^{t_2} \left( -m \frac{d^2y}{dt^2} - \frac{dV}{dy} \right) \eta dt = 0
+$$</p>
+<p>Since $\eta$ is arbitrary, we must have:</p>
+<p>$$
+m \frac{d^2y}{dt^2} = -\frac{dV}{dy}
+$$</p>
+<p>which, voila, is just  $F = ma$  which is Newton&rsquo;s second law.</p>
+<h2 id="show-how-euler-lagranges-equation-implies-fermats-principle-of-least-time">Show how Euler-Lagrange&rsquo;s Equation implies Fermat&rsquo;s Principle of Least Time</h2>
+<p>todo</p>
+<h2 id="write-out-the-lagrangian-for-a-double-pendulum">Write out the Lagrangian for a double pendulum</h2>
+<p>todo</p>
 </section>
 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
-  <h2 class="!my-0">What is this?</h2>
-  <time class="text-xs antialiased opacity-60"
-    >Jul 25, 2024</time
+  
+
+  
+  
+  
+  
+  <nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/what-is-this/">What is this?</a>
-</section>
-
-
-
-
-<nav class="mt-14 flex">
+    
+    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/thoughts-on-cursor/"
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Thoughts On Cursor</span></a
+    >
+    
+    
+    <a class="ltr:ml-auto rtl:mr-auto justify-end pl-3" href="http://localhost:1313/weird-/"
+      ><span>Weird Things in High Dimensions</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    >
+    
+  </nav>
   
-  <a class="btn" href="/">← Prev Page</a>
   
-  
-</nav>
 
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
 
 
     </main>

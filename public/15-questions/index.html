@@ -51,7 +51,7 @@
   />
 
   
-  <title>Vincent Cheng</title>
+  <title>15 Questions - Vincent Cheng</title>
 
   
   <meta name="theme-color" />
@@ -60,11 +60,28 @@
   
   
   
-  
-  <meta
-    name="description"
-    content="A personal blog"
-  />
+  <meta name="description" content="
+What do truly long-context models look like?
+I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
+I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?
+Predictive processing?
+What will human-AI collaboration look like in the future?
+How much software will humans be writing in three years?
+What are the comparative advantages of humans?
+Is &ldquo;We don&rsquo;t need to find the most general, all-modality, solution. We just need to get something good enough to automate research. That&rsquo;s the goal. After that, there&rsquo;s a clear path and we&rsquo;re just on high-level steering.&rdquo; wrong?
+Has someone created a gym environment that is a computer simulation? Actions are anything someone can do on a computer. After each episode, unit tests are run to determine reward. Why are we using screenshots?
+How much does o1-style reasoning RL transfer to performing long-horizon tasks for computer use?
+I don&rsquo;t get how we&rsquo;re passing the synthetic data wall. Yes, you can use o3 outputs to fine-tune 4o and get a really good o3-mini, but can you use oN outputs to get oN&#43;1?
+Can you get two models to communicate through residual streams and not text? Or CoT in the latent space instead of writing everything out? Is this desirable? How do you get training data for this?
+A quick perplexity search gets me these links.
+We have text-to-text, text-to-image, text-to-video. What is the SOTA for text-to-action tokens in robots? There must be a way to leverage the understanding of the world language models have to robotics. How?
+How much do traders use ML? It seems like a ripe field for it. Lots of money, data, smart people… Everything is probably private.
+Why is Moravec&rsquo;s paradox true?
+How is Adam still the best optimizer after 10 years? `
+How do lightweight code-generation models like Cursor&rsquo;s work?
+What is going on in interpretability these days?
+Why are all the benchmarks in math and coding competitions? What happened to physics?
+" />
   <meta name="author" content=" " />
   
 
@@ -98,6 +115,12 @@
   
 
   
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
   
 
   
@@ -289,53 +312,81 @@
     >
       
 
+<article>
+  <header class="mb-14">
+    <h1 class="!my-0 pb-2.5">15 Questions</h1>
 
+    
+    <div class="text-xs antialiased opacity-60">
+      
+      <time>Feb 4, 2025</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0">Podcast Notes</h2>
-  <time class="text-xs antialiased opacity-60"
-    >Jul 28, 2024</time
-  >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/podcast-notes/">Podcast Notes</a>
+  <section><ol>
+<li>What do truly long-context models look like?
+I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
+I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?
+Predictive processing?</li>
+<li>What will human-AI collaboration look like in the future?</li>
+<li>How much software will humans be writing in three years?
+What are the comparative advantages of humans?</li>
+<li>Is &ldquo;We don&rsquo;t need to find the most general, all-modality, solution. We just need to get something good enough to automate research. That&rsquo;s the goal. After that, there&rsquo;s a clear path and we&rsquo;re just on high-level steering.&rdquo; wrong?</li>
+<li>Has someone created a gym environment that is a computer simulation? Actions are anything someone can do on a computer. After each episode, unit tests are run to determine reward. Why are we using screenshots?</li>
+<li>How much does o1-style reasoning RL transfer to performing long-horizon tasks for computer use?</li>
+<li>I don&rsquo;t get how we&rsquo;re passing the synthetic data wall. Yes, you can use o3 outputs to fine-tune 4o and get a really good o3-mini, but can you use oN outputs to get oN+1?</li>
+<li>Can you get two models to communicate through residual streams and not text? Or CoT in the latent space instead of writing everything out? Is this desirable? How do you get training data for this?
+A quick perplexity search <a href="https://transformer-circuits.pub/2023/privileged-basis/index.html">gets</a> <a href="https://arxiv.org/html/2406.03230v2">me</a> <a href="https://www.alignmentforum.org/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability">these</a> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1gxxqs9/why_should_thoughts_be_word_tokens_in_o1_style/">links</a>.</li>
+<li>We have text-to-text, text-to-image, text-to-video. What is the SOTA for text-to-action tokens in robots? There must be a way to leverage the understanding of the world language models have to robotics. How?</li>
+<li>How much do traders use ML? It seems like a ripe field for it. Lots of money, data, smart people… Everything is probably private.</li>
+<li>Why is Moravec&rsquo;s paradox true?</li>
+<li>How is Adam still the best optimizer after 10 years? `</li>
+<li>How do lightweight code-generation models like Cursor&rsquo;s work?</li>
+<li>What is going on in interpretability these days?</li>
+<li>Why are all the benchmarks in math and coding competitions? What happened to physics?</li>
+</ol>
 </section>
 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
-  <h2 class="!my-0">What is this?</h2>
-  <time class="text-xs antialiased opacity-60"
-    >Jul 25, 2024</time
+  
+
+  
+  
+  
+  
+  <nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/what-is-this/">What is this?</a>
-</section>
-
-
-
-
-<nav class="mt-14 flex">
+    
+    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/pins/"
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Pins</span></a
+    >
+    
+    
+    <a class="ltr:ml-auto rtl:mr-auto justify-end pl-3" href="http://localhost:1313/ideas/"
+      ><span>Ideas</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    >
+    
+  </nav>
   
-  <a class="btn" href="/">← Prev Page</a>
   
-  
-</nav>
 
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
 
 
     </main>
