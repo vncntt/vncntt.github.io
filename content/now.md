@@ -27,12 +27,18 @@ title = 'Now'
 - Side quests!
 - Trying to not "talk about what I want to do" but actually "doing" -->
 
-## What I'm Doing Now (updated 12/26)
+<!-- ## What I'm Doing Now (updated 12/26)
 
 - Making videos for Veritasium
 - In NYC until 1/2 (would love to meetup with ppl!)
 - Learning some RL
-- Taking more math classes in school
+- Taking more math classes in school -->
 
 
+## What I'm Doing Now (updated 2/23)
 
+- Writing my own video!
+- School stuff
+- Working on [Reasoning Gym](https://github.com/open-thought/reasoning-gym) now and then
+- Trying to figure out what to do over the summer
+- Fun projects like [this](https://vncntt.github.io/metal_pins)
