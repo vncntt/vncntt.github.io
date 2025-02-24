@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent Cheng</title><link>https://vncntt.github.io/</link><description>Recent content on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 01:44:37 -0800</lastBuildDate><atom:link href="https://vncntt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Now</title><link>https://vncntt.github.io/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vncntt.github.io/now/</guid><description>&lt;h2 id="what-im-doing-now-updated-1226">What I&amp;rsquo;m Doing Now (updated 12/26)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent Cheng</title><link>https://vncntt.github.io/</link><description>Recent content on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 01:44:37 -0800</lastBuildDate><atom:link href="https://vncntt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Now</title><link>https://vncntt.github.io/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vncntt.github.io/now/</guid><description>&lt;h2 id="what-im-doing-now-updated-223">What I&amp;rsquo;m Doing Now (updated 2/23)&lt;/h2>
 &lt;ul>
-&lt;li>Making videos for Veritasium&lt;/li>
-&lt;li>In NYC until 1/2 (would love to meetup with ppl!)&lt;/li>
-&lt;li>Learning some RL&lt;/li>
-&lt;li>Taking more math classes in school&lt;/li>
+&lt;li>Writing my own video!&lt;/li>
+&lt;li>School stuff&lt;/li>
+&lt;li>Working on &lt;a href="https://github.com/open-thought/reasoning-gym">Reasoning Gym&lt;/a> now and then&lt;/li>
+&lt;li>Trying to figure out what to do over the summer&lt;/li>
+&lt;li>Fun projects like &lt;a href="https://vncntt.github.io/metal_pins">this&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>About</title><link>https://vncntt.github.io/about/</link><pubDate>Mon, 10 Feb 2025 01:44:29 -0800</pubDate><guid>https://vncntt.github.io/about/</guid><description>&lt;p>Hey! I&amp;rsquo;m Vincent Cheng, an freshman Math-CS major at UCSD. I&amp;rsquo;ve attended &lt;a href="https://rossprogram.org/">Ross&lt;/a>, &lt;a href="warp.camp">WARP&lt;/a>, &lt;a href="https://ioai-official.org/">IOAI&lt;/a>, and was an &lt;a href="https://www.atlasfellowship.org/">2023 Atlas fellow&lt;/a>.
 I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!&lt;/p>
 &lt;p>I read a lot of articles and save them in my &lt;a href="https://curius.app/vincent-cheng">Curius bookshelf&lt;/a>! Check it out and get Curius yourself too.&lt;/p></description></item><item><title>Pins</title><link>https://vncntt.github.io/pins/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vncntt.github.io/pins/</guid><description>&lt;p>&lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>&lt;/p></description></item><item><title>15 Questions</title><link>https://vncntt.github.io/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vncntt.github.io/15-questions/</guid><description>&lt;ol>
@@ -86,7 +87,7 @@ $$&lt;/p>
 &lt;p>where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.&lt;/p>
 &lt;p>Euler later generalized this to a continuous form:&lt;/p></description></item><item><title>Weird Things in High Dimensions</title><link>https://vncntt.github.io/weird-/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vncntt.github.io/weird-/</guid><description>&lt;p>Some weird stuff happens in high-dimensions.&lt;/p>
 &lt;p>&lt;a href="https://x.com/aryehazan/status/1817877048053911912">Reference&lt;/a>&lt;/p>
-&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peelhttpsxcomtszzlstatus1817081479190708528">1. &lt;a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel&lt;/a>&lt;/h2>
+&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peel">1. &lt;a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel&lt;/a>&lt;/h2>
 &lt;p>Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&amp;ldquo;pulp&amp;rdquo;) surrounded by a $0.1$-width border (&amp;ldquo;peel&amp;rdquo;).&lt;/p>
 &lt;p>The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:&lt;/p>
 &lt;table>

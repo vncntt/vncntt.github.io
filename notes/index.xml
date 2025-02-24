@@ -78,7 +78,7 @@ $$&lt;/p>
 &lt;p>where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.&lt;/p>
 &lt;p>Euler later generalized this to a continuous form:&lt;/p></description></item><item><title>Weird Things in High Dimensions</title><link>https://vncntt.github.io/weird-/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vncntt.github.io/weird-/</guid><description>&lt;p>Some weird stuff happens in high-dimensions.&lt;/p>
 &lt;p>&lt;a href="https://x.com/aryehazan/status/1817877048053911912">Reference&lt;/a>&lt;/p>
-&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peelhttpsxcomtszzlstatus1817081479190708528">1. &lt;a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel&lt;/a>&lt;/h2>
+&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peel">1. &lt;a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel&lt;/a>&lt;/h2>
 &lt;p>Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&amp;ldquo;pulp&amp;rdquo;) surrounded by a $0.1$-width border (&amp;ldquo;peel&amp;rdquo;).&lt;/p>
 &lt;p>The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:&lt;/p>
 &lt;table>
