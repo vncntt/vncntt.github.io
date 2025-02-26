@@ -4,7 +4,7 @@ draft = false
 title = 'Thoughts On Cursor'
 +++
 
-My opinion of Cursor helps or hinders my work has fluctuated significantly over the past few months.
+My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.
 
 Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a [pretty nice scraper](https://github.com/vncntt/webbot) in two afternoons. It just works. 
 
