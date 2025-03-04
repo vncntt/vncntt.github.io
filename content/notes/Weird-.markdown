@@ -45,14 +45,29 @@ This is very weird and requires non-trivial math to show.
 
 
 ## 3. [Spheres "spill out" in higher dimensions](https://stanislavfort.com/blog/sphere-spilling-out/)
-todo
 
 
 ## 4. Randomly chosen vectors in high-dimensional spaces are almost all orthogonal
-todo
+The most intuitive explanation (in my opinion) is the probabilistic one.
+Two vectors are orthogonal if their dot product is 0. 
+
+$$
+\langle x,y \rangle = \sum_{i=1}^n x_iy_i 
+$$
+
+Each $x_i$ and $y_i$ is randomly distributed from $[-1,1]$ which means that $\mathbb{E}[x_i y_i] = 0$ and the variance is proportional to $\frac{1}{n}$. This means that spread decreases with $n$.
+
+When sampling only 2 or 3 times, the odds that you get a dot product close to 0 is not high, but because of the central limit theorem, sampling a lot means you almost always get really close to the mean.
 
 
 
 ## 5. Local minima are rare
 todo
 
+
+<!-- https://sites.astro.caltech.edu/~george/ay122/cacm12.pdf
+
+> In high dimensions, most of the mass of a multivariate Gaussian distribution is not near the mean, but in an increasingly distant “shell” around it
+
+
+> Naively, one might think that gathering more features never hurts, since at worst they provide no new information about the class. But in fact their benefits may be outweighed by the curse of dimensionality. -->

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/now/</link>
       <pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate>
       <guid>http://localhost:1313/now/</guid>
-      <description>&lt;h2 id=&#34;what-im-doing-now-updated-1226&#34;&gt;What I&amp;rsquo;m Doing Now (updated 12/26)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Making videos for Veritasium&lt;/li&gt;&#xA;&lt;li&gt;In NYC until 1/2 (would love to meetup with ppl!)&lt;/li&gt;&#xA;&lt;li&gt;Learning some RL&lt;/li&gt;&#xA;&lt;li&gt;Taking more math classes in school&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;what-im-doing-now-updated-223&#34;&gt;What I&amp;rsquo;m Doing Now (updated 2/23)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing my own video!&lt;/li&gt;&#xA;&lt;li&gt;School stuff&lt;/li&gt;&#xA;&lt;li&gt;Working on &lt;a href=&#34;https://github.com/open-thought/reasoning-gym&#34;&gt;Reasoning Gym&lt;/a&gt; now and then&lt;/li&gt;&#xA;&lt;li&gt;Trying to figure out what to do over the summer&lt;/li&gt;&#xA;&lt;li&gt;Fun projects like &lt;a href=&#34;https://vncntt.github.io/metal_pins&#34;&gt;this&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -23,10 +23,10 @@
       <description>&lt;p&gt;Hey! I&amp;rsquo;m Vincent Cheng, an freshman Math-CS major at UCSD. I&amp;rsquo;ve attended &lt;a href=&#34;https://rossprogram.org/&#34;&gt;Ross&lt;/a&gt;, &lt;a href=&#34;warp.camp&#34;&gt;WARP&lt;/a&gt;, &lt;a href=&#34;https://ioai-official.org/&#34;&gt;IOAI&lt;/a&gt;, and was an &lt;a href=&#34;https://www.atlasfellowship.org/&#34;&gt;2023 Atlas fellow&lt;/a&gt;.&#xA;I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!&lt;/p&gt;&#xA;&lt;p&gt;I read a lot of articles and save them in my &lt;a href=&#34;https://curius.app/vincent-cheng&#34;&gt;Curius bookshelf&lt;/a&gt;! Check it out and get Curius yourself too.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pins</title>
-      <link>http://localhost:1313/pins/</link>
+      <title>Metal Pins Simulation</title>
+      <link>http://localhost:1313/metal-pins-simulation/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate>
-      <guid>http://localhost:1313/pins/</guid>
+      <guid>http://localhost:1313/metal-pins-simulation/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://vncntt.github.io/metal_pins/&#34;&gt;Try it out here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -69,7 +69,7 @@
       <link>http://localhost:1313/thoughts-on-cursor/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 -0800</pubDate>
       <guid>http://localhost:1313/thoughts-on-cursor/</guid>
-      <description>&lt;p&gt;My opinion of Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;&#xA;&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href=&#34;https://github.com/vncntt/webbot&#34;&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;&#xA;&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;&#xA;&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;&#xA;&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href=&#34;https://github.com/vncntt/webbot&#34;&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;&#xA;&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;&#xA;&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principle of Least Action</title>

@@ -51,7 +51,7 @@
   />
 
   
-  <title>Weird Things in High Dimensions - Vincent Cheng</title>
+  <title>Metal Pins Simulation - Vincent Cheng</title>
 
   
   <meta name="theme-color" />
@@ -60,50 +60,7 @@
   
   
   
-  <meta name="description" content="Some weird stuff happens in high-dimensions.
-Reference
-1. High Dimensional Oranges Are Almost All Peel
-Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&ldquo;pulp&rdquo;) surrounded by a $0.1$-width border (&ldquo;peel&rdquo;).
-The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:
-
-  
-      
-          Dimensions
-          Pulp Volume ($0.8^n$)
-      
-  
-  
-      
-          1
-          0.800
-      
-      
-          2
-          0.640
-      
-      
-          3
-          0.512
-      
-      
-          5
-          0.328
-      
-      
-          10
-          0.107
-      
-      
-          20
-          0.012
-      
-      
-          50
-          0.000014
-      
-  
-
-Another perspective: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases." />
+  <meta name="description" content="Try it out here" />
   <meta name="author" content=" " />
   
 
@@ -336,12 +293,12 @@ Another perspective: To randomly sample a point in this cube, we select $n$ inde
 
 <article>
   <header class="mb-14">
-    <h1 class="!my-0 pb-2.5">Weird Things in High Dimensions</h1>
+    <h1 class="!my-0 pb-2.5">Metal Pins Simulation</h1>
 
     
     <div class="text-xs antialiased opacity-60">
       
-      <time>Nov 5, 2024</time>
+      <time>Feb 9, 2025</time>
       
       
       
@@ -350,68 +307,7 @@ Another perspective: To randomly sample a point in this cube, we select $n$ inde
     
   </header>
 
-  <section><p>Some weird stuff happens in high-dimensions.</p>
-<p><a href="https://x.com/aryehazan/status/1817877048053911912">Reference</a></p>
-<h2 id="1-high-dimensional-oranges-are-almost-all-peelhttpsxcomtszzlstatus1817081479190708528">1. <a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel</a></h2>
-<p>Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&ldquo;pulp&rdquo;) surrounded by a $0.1$-width border (&ldquo;peel&rdquo;).</p>
-<p>The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:</p>
-<table>
-  <thead>
-      <tr>
-          <th>Dimensions</th>
-          <th>Pulp Volume ($0.8^n$)</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>1</td>
-          <td>0.800</td>
-      </tr>
-      <tr>
-          <td>2</td>
-          <td>0.640</td>
-      </tr>
-      <tr>
-          <td>3</td>
-          <td>0.512</td>
-      </tr>
-      <tr>
-          <td>5</td>
-          <td>0.328</td>
-      </tr>
-      <tr>
-          <td>10</td>
-          <td>0.107</td>
-      </tr>
-      <tr>
-          <td>20</td>
-          <td>0.012</td>
-      </tr>
-      <tr>
-          <td>50</td>
-          <td>0.000014</td>
-      </tr>
-  </tbody>
-</table>
-<p><a href="https://x.com/Jsevillamol/status/1817213852402303024">Another perspective</a>: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases.</p>
-<p>In high dimensions, the volume is almost all in the surface.</p>
-<h2 id="2-unit-spheres-get-smaller-in-high-dimensions">2. Unit spheres get smaller in high dimensions</h2>
-<p>todo</p>
-<p>This is very weird and requires non-trivial math to show.
-<a href="https://en.wikipedia.org/wiki/Volume_of_an_n-ball">Wikepdia</a></p>
-<p><a href="https://x.com/RokoMijic/status/1818073988805152801">Good twitter post talking about this</a></p>
-<p><a href="https://x.com/MaskedTorah/status/1818188397087015147">Drake</a> came up with a good explanation which is explained <a href="https://x.com/RokoMijic/status/1818273024526733319">here</a></p>
-<h2 id="3-spheres-spill-out-in-higher-dimensionshttpsstanislavfortcomblogsphere-spilling-out">3. <a href="https://stanislavfort.com/blog/sphere-spilling-out/">Spheres &ldquo;spill out&rdquo; in higher dimensions</a></h2>
-<h2 id="4-randomly-chosen-vectors-in-high-dimensional-spaces-are-almost-all-orthogonal">4. Randomly chosen vectors in high-dimensional spaces are almost all orthogonal</h2>
-<p>The most intuitive explanation (in my opinion) is the probabilistic one.
-Two vectors are orthogonal if their dot product is 0.</p>
-<p>$$
-\langle x,y \rangle = \sum_{i=1}^n x_iy_i
-$$</p>
-<p>Each $x_i$ and $y_i$ is randomly distributed from $[-1,1]$ which means that $\mathbb{E}[x_i y_i] = 0$ and the variance is proportional to $\frac{1}{n}$. This means that spread decreases with $n$.</p>
-<p>When sampling only 2 or 3 times, the odds that you get a dot product close to 0 is not high, but because of the central limit theorem, sampling a lot means you almost always get really close to the mean.</p>
-<h2 id="5-local-minima-are-rare">5. Local minima are rare</h2>
-<p>todo</p>
+  <section><p><a href="https://vncntt.github.io/metal_pins/">Try it out here</a></p>
 </section>
 
   
@@ -425,13 +321,9 @@ $$</p>
     class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   >
     
-    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/principle-of-least-action/"
-      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Principle of Least Action</span></a
-    >
     
-    
-    <a class="ltr:ml-auto rtl:mr-auto justify-end pl-3" href="http://localhost:1313/watch-more-youtube/"
-      ><span>Watch More YouTube</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    <a class="ltr:ml-auto rtl:mr-auto justify-end pl-3" href="http://localhost:1313/15-questions/"
+      ><span>15 Questions</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
     >
     
   </nav>

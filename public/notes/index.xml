@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 09 Feb 2025 00:00:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pins</title>
-      <link>http://localhost:1313/pins/</link>
+      <title>Metal Pins Simulation</title>
+      <link>http://localhost:1313/metal-pins-simulation/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate>
-      <guid>http://localhost:1313/pins/</guid>
+      <guid>http://localhost:1313/metal-pins-simulation/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://vncntt.github.io/metal_pins/&#34;&gt;Try it out here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -55,7 +55,7 @@
       <link>http://localhost:1313/thoughts-on-cursor/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 -0800</pubDate>
       <guid>http://localhost:1313/thoughts-on-cursor/</guid>
-      <description>&lt;p&gt;My opinion of Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;&#xA;&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href=&#34;https://github.com/vncntt/webbot&#34;&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;&#xA;&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;&#xA;&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;&#xA;&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href=&#34;https://github.com/vncntt/webbot&#34;&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;&#xA;&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;&#xA;&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principle of Least Action</title>
