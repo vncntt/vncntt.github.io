@@ -25,7 +25,7 @@ Feel free to message me your favorites and I'll include them!
 7. A goddamn mouse
 8. [Dell 32 inch curved monitor](https://www.dell.com/en-us/shop/dell-32-curved-4k-uhd-monitor-s3221qs/apd/210-axkm/monitors-monitor-accessories)
 9. If your LLM starts generating a response and you realize you missed something, edit your original message directly instead of sending a follow-up correction. It keeps the conversation cleaner.
-10. I bound Vim's copy to clipboard (`"+y`) `\`. There are definitely a ton of vimrc shenanegans that I'm not abusing. Send me your favorite ones!
-11. You can use your iPad as an extended display to your Mac without any setup! (not knowing about this sparked me writing this post)
+10. I bound Vim's copy to clipboard (`"+y`) `\`. There are definitely a ton of vimrc shenanigans that I'm not abusing. Send me your favorite ones!
+11. You can use your iPad as an extended display to your Mac without any setup! Discovering this inspired me to write this post.
 
 
