@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent Cheng</title><link>https://vncntt.github.io/</link><description>Recent content on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 01:44:37 -0800</lastBuildDate><atom:link href="https://vncntt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Now</title><link>https://vncntt.github.io/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vncntt.github.io/now/</guid><description>&lt;h2 id="what-im-doing-now-updated-223">What I&amp;rsquo;m Doing Now (updated 2/23)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent Cheng</title><link>https://vncntt.github.io/</link><description>Recent content on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://vncntt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>1% Improvements</title><link>https://vncntt.github.io/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vncntt.github.io/1-improvements/</guid><description>&lt;p>Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
+Most of these are embarrassingly simple, but that&amp;rsquo;s the point!
+Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p>
+&lt;p>I&amp;rsquo;ll keep updating this as I discover more.
+Many are specific to Mac + Chrome.
+Feel free to message me your favorites and I&amp;rsquo;ll include them!&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>Cmd+l&lt;/code> to get to search bar&lt;/li>
+&lt;li>&lt;code>Cmd+1, Cmd+2, ...&lt;/code> to navigate between tabs&lt;/li>
+&lt;li>&lt;code>Cmd+&lt;/code> ` to get around windows of the same app without the slow Mac sliding animation. Your windows have to be non-maximized.&lt;/li>
+&lt;li>&lt;code>Tab+Enter&lt;/code> to fill out forms without using your mouse. &lt;code>Tab+&amp;quot;Answer&amp;quot;&lt;/code> where you type the answers out from a dropdown menu works too.&lt;/li>
+&lt;li>&lt;code>Cmd+Shift+m&lt;/code> -&amp;gt; Arrow keys -&amp;gt; &lt;code>Enter&lt;/code> to navigate between different Google accounts&lt;/li>
+&lt;li>Raycast
+&lt;ul>
+&lt;li>Clipboard history (I don&amp;rsquo;t use it that much)&lt;/li>
+&lt;li>Window management: I bound &lt;code>Cmd+Shift+j/k&lt;/code> to left/right half for window management.&lt;/li>
+&lt;li>Snippets: I bound &lt;code>@@&lt;/code> and &lt;code>!@&lt;/code> to common emails.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A goddamn mouse&lt;/li>
+&lt;li>&lt;a href="https://www.dell.com/en-us/shop/dell-32-curved-4k-uhd-monitor-s3221qs/apd/210-axkm/monitors-monitor-accessories">Dell 32 inch curved monitor&lt;/a>&lt;/li>
+&lt;li>If your LLM starts generating a response and you realize you missed something, edit your original message directly instead of sending a follow-up correction. It keeps the conversation cleaner.&lt;/li>
+&lt;li>I bound Vim&amp;rsquo;s copy to clipboard (&lt;code>&amp;quot;+y&lt;/code>) &lt;code>\&lt;/code>. There are definitely a ton of vimrc shenanegans that I&amp;rsquo;m not abusing. Send me your favorite ones!&lt;/li>
+&lt;li>You can use your iPad as an extended display to your Mac without any setup! (not knowing about this sparked me writing this post)&lt;/li>
+&lt;/ol></description></item><item><title>Now</title><link>https://vncntt.github.io/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vncntt.github.io/now/</guid><description>&lt;h2 id="what-im-doing-now-updated-223">What I&amp;rsquo;m Doing Now (updated 2/23)&lt;/h2>
 &lt;ul>
 &lt;li>Writing my own video!&lt;/li>
 &lt;li>School stuff&lt;/li>
