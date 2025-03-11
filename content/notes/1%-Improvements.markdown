@@ -20,12 +20,18 @@ Feel free to message me your favorites and I'll include them!
 5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts
 6. Raycast
    - Clipboard history (I don't use it that much)
-   - Window management: I bound `Cmd+Shift+j/k` to left/right half for window management.
+   - Window management has never been so easy: 
+      - I bound `Cmd+Shift+j/k` to left/right half for window management. 
+      - I'm currently in the Raycast free trial since I wanted a custom window management command `Cmd+Shift+n` for largest non-maximized window (see 2). We'll see if it's worth it in two weeks.
    - Snippets: I bound `@@` and `!@` to common emails.
-7. A goddamn mouse
-8. [Dell 32 inch curved monitor](https://www.dell.com/en-us/shop/dell-32-curved-4k-uhd-monitor-s3221qs/apd/210-axkm/monitors-monitor-accessories)
+7. A goddamn mouse. I use a random Logitech one and there are definitely better ones out there. Send me what you use!
+8. [Dell 40 inch curved monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories). 
 9. If your LLM starts generating a response and you realize you missed something, edit your original message directly instead of sending a follow-up correction. It keeps the conversation cleaner.
 10. I bound Vim's copy to clipboard (`"+y`) `\`. There are definitely a ton of vimrc shenanigans that I'm not abusing. Send me your favorite ones!
 11. You can use your iPad as an extended display to your Mac without any setup! Discovering this inspired me to write this post.
-
+12. Shift+select tabs and drag out to get a set of tabs to a new window.
+13. My [scooter](https://www.amazon.com/dp/B0B5ZSLHG2?ref=ppx_yo2ov_dt_b_fed_asin_title) is one of the highest value things I've bought in the past year and I can't imagine my life without one now.
+This one is at least a 5% improvement
+It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
+I've also convinced at least 4 other friends to buy their own.
 
