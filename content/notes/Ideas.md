@@ -20,9 +20,10 @@ Combining facts from the beginning and the end, simple reasoning steps, and
 - Machine translation through steering vectors?
 - Give Claude/GPT/... a decent prompt and scaffolding and let it loose on X.
 - Taiwanese news is 50% TSMC and gets updates instantly. But it takes a while for this to get to US news outlets. Make a scraper of big Taiwanese outlets and when it's an article about TSMC, automatically translate it to English and post it somewhere.
-
-
-
-
-
+- https://aayushg.com/ideas
+- How did my water get here? Enter in a location/building and see where your water source is from. 
+What pipes did your water go through?
+What water plant is it from?
+What's the water source?
+- A script that someone goes through a bunch of websites and stores 404s or unavailables and emails people that some site is down.
 

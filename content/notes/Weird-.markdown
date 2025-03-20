@@ -71,3 +71,5 @@ todo
 
 
 > Naively, one might think that gathering more features never hurts, since at worst they provide no new information about the class. But in fact their benefits may be outweighed by the curse of dimensionality. -->
+
+<!-- https://www.math.ucdavis.edu/~strohmer/courses/180BigData/180lecture1.pdf -->

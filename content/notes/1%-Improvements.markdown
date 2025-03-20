@@ -17,7 +17,7 @@ Feel free to message me your favorites and I'll include them!
 2. `Cmd+1, Cmd+2, ...` to navigate between tabs
 3. `Cmd+` ` to get around windows of the same app without the slow Mac sliding animation. Your windows have to be non-maximized.
 4. `Tab+Enter` to fill out forms without using your mouse. `Tab+"Answer"` where you type the answers out from a dropdown menu works too.
-5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts
+5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts (not sure how much faster this is/if it is faster)
 6. Raycast
    - Clipboard history (I don't use it that much)
    - Window management has never been so easy: 
