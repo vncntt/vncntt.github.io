@@ -34,4 +34,6 @@ Feel free to message me your favorites and I'll include them!
 This one is at least a 5% improvement
 It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
 I've also convinced at least 4 other friends to buy their own.
+14. Whenever I see someone with a cool personal website, I send a one sentence email telling them it's nice :))
+
 
