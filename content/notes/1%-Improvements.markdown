@@ -35,5 +35,6 @@ This one is at least a 5% improvement
 It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
 I've also convinced at least 4 other friends to buy their own.
 14. Whenever I see someone with a cool personal website, I send a one sentence email telling them it's nice :))
+15. For Apple Notes on Mac: There isn't a default keybinding for strikethrough but you can bind it yourself through [this](https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 
