@@ -33,7 +33,12 @@ This one is at least a 5% improvement
 It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
 I&amp;rsquo;ve also convinced at least 4 other friends to buy their own.&lt;/li>
 &lt;li>Whenever I see someone with a cool personal website, I send a one sentence email telling them it&amp;rsquo;s nice :))&lt;/li>
-&lt;/ol></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>&lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>&lt;/p></description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol>
+&lt;li>For Apple Notes on Mac: There isn&amp;rsquo;t a default keybinding for strikethrough but you can bind it yourself through &lt;a href="https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n/?utm_source=share&amp;amp;utm_medium=web3x&amp;amp;utm_name=web3xcss&amp;amp;utm_term=1&amp;amp;utm_content=share_button">this&lt;/a>.&lt;/li>
+&lt;/ol></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
+&lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
+&lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
+&lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins">
+Check out the code &lt;a href="https://github.com/vncntt/metal_pins">here&lt;/a>.&lt;/p></description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol>
 &lt;li>What do truly long-context models look like?
 I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
 I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?
