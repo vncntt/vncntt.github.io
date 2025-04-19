@@ -35,10 +35,17 @@ title = 'Now'
 - Taking more math classes in school -->
 
 
-## What I'm Doing Now (updated 2/23)
+<!-- ## What I'm Doing Now (updated 2/23)
 
 - Writing my own video!
 - School stuff
 - Working on [Reasoning Gym](https://github.com/open-thought/reasoning-gym) now and then
 - Trying to figure out what to do over the summer
-- Fun projects like [this](https://vncntt.github.io/metal_pins)
+- Fun projects like [this](https://vncntt.github.io/metal_pins) -->
+
+## What I'm Doing Now (updated 4/19)
+
+- Working on an AI control project with Josh Clymer 
+- Thinking about and trying to make good evals
+- Deciding what to do over the summer
+- School

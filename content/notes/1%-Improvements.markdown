@@ -36,5 +36,9 @@ It saves me at least an hour a day and lowers the activation energy required to 
 I've also convinced at least 4 other friends to buy their own.
 14. Whenever I see someone with a cool personal website, I send a one sentence email telling them it's nice :))
 15. For Apple Notes on Mac: There isn't a default keybinding for strikethrough but you can bind it yourself through [this](https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
-
+16. On Mac, the default screenshot + save to clipboard is "Cmd+Shift+Ctrl+4" which usually takes two hands to press, but you can rebind this to to "Cmd+Shift+4" which from System Settings > Keyboard Shortcuts > Keyboard > Screenshots (thanks Will).
+17. Add archive.is/[link] to view WSJ or other paywalled sites.
+18. [Vim for Google Docs extension](https://github.com/vncntt/vimdocs)
+19. [Anki generator extension](https://github.com/westonz7042/diamondhacks2025)
+20. https://substack.com/@henrikkarlsson/note/c-108623056
 
