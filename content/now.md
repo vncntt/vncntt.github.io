@@ -42,7 +42,6 @@ title = 'Now'
 - Working on [Reasoning Gym](https://github.com/open-thought/reasoning-gym) now and then
 - Trying to figure out what to do over the summer
 - Fun projects like [this](https://vncntt.github.io/metal_pins) -->
-
 ## What I'm Doing Now (updated 4/19)
 
 - Working on an AI control project with Josh Clymer 
