@@ -4,7 +4,7 @@ title = 'Vincent Cheng'
 theme = "paper"
 
 [pagination]
-  pageSize = 100
+  pagerSize = 100
 
 # Add this menu section
 [menu]
@@ -37,7 +37,7 @@ theme = "paper"
   github = 'vncntt'
 
 [permalinks]
-  notes = "/:contentbasename/"
+  notes = "/:filename/"
 
 [module]
   [[module.imports]]
