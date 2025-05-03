@@ -2,6 +2,7 @@ baseURL = 'https://vvvincent.me'
 languageCode = 'en-us'
 title = 'Vincent Cheng'
 theme = "paper"
+paginate= 100
 
 # Add this menu section
 [menu]
@@ -11,12 +12,6 @@ theme = "paper"
     url = "/about/"
     weight = 10
 
-  [[menu.main]]
-    identifier = "notes"
-    name = "Notes"
-    url = "/notes/"
-    weight = 20
-
   # Add more buttons as needed, for example:
   [[menu.main]]
     identifier = "now"
@@ -25,6 +20,7 @@ theme = "paper"
     weight = 30
 
 [params]
+  customCSS = ["css/custom.css"]
   
   # Enable math typesetting
   math = true
@@ -37,10 +33,6 @@ theme = "paper"
 
   twitter = 'vvvincent_c'
   github = 'vncntt'
-
-  name = ' '
-  
-  bio = 'Hi! 👋'
 
 [permalinks]
   notes = "/:filename/"

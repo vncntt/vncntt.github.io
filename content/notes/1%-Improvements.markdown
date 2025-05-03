@@ -15,7 +15,7 @@ Feel free to message me your favorites and I'll include them!
 
 1. ```Cmd+l``` to get to search bar
 2. `Cmd+1, Cmd+2, ...` to navigate between tabs
-3. `Cmd+` ` to get around windows of the same app without the slow Mac sliding animation. Your windows have to be non-maximized.
+3. `Cmd+` ` to get around windows of the same app without the slow Mac sliding animation, but your windows have to be non-maximized. I never use maximized windows now beacuse I have the bind from 6 for "fill screen"
 4. `Tab+Enter` to fill out forms without using your mouse. `Tab+"Answer"` where you type the answers out from a dropdown menu works too.
 5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts (not sure how much faster this is/if it is faster)
 6. Raycast
@@ -39,6 +39,11 @@ I've also convinced at least 4 other friends to buy their own.
 16. On Mac, the default screenshot + save to clipboard is "Cmd+Shift+Ctrl+4" which usually takes two hands to press, but you can rebind this to to "Cmd+Shift+4" which from System Settings > Keyboard Shortcuts > Keyboard > Screenshots (thanks Will).
 17. Add archive.is/[link] to view WSJ or other paywalled sites.
 18. [Vim for Google Docs extension](https://github.com/vncntt/vimdocs)
-19. [Anki generator extension](https://github.com/westonz7042/diamondhacks2025)
-20. https://substack.com/@henrikkarlsson/note/c-108623056
+19. [Anki card generator extension](https://github.com/westonz7042/diamondhacks2025)
+20. [Source](https://substack.com/@henrikkarlsson/note/c-108623056): If you're single, a useful habit to build is that whenever you see someone that makes you curious, you go talk them. I mean in the supermarket and stuff. Not in a pickup artist way, but just being open to the world.
+21. Obtain a full text version of a github repo: replace `github.com/user/name_of_repo` with `uithub.com/user/name_of_repo`
+22. `Cmd+l` to move cursor to the address bar.
+
+
+
 
