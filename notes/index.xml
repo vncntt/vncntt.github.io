@@ -7,7 +7,7 @@ Feel free to message me your favorites and I&amp;rsquo;ll include them!&lt;/p>
 &lt;ol>
 &lt;li>&lt;code>Cmd+l&lt;/code> to get to search bar&lt;/li>
 &lt;li>&lt;code>Cmd+1, Cmd+2, ...&lt;/code> to navigate between tabs&lt;/li>
-&lt;li>&lt;code>Cmd+&lt;/code> ` to get around windows of the same app without the slow Mac sliding animation. Your windows have to be non-maximized.&lt;/li>
+&lt;li>&lt;code>Cmd+&lt;/code> ` to get around windows of the same app without the slow Mac sliding animation, but your windows have to be non-maximized. I never use maximized windows now beacuse I have the bind from 6 for &amp;ldquo;fill screen&amp;rdquo;&lt;/li>
 &lt;li>&lt;code>Tab+Enter&lt;/code> to fill out forms without using your mouse. &lt;code>Tab+&amp;quot;Answer&amp;quot;&lt;/code> where you type the answers out from a dropdown menu works too.&lt;/li>
 &lt;li>&lt;code>Cmd+Shift+m&lt;/code> -&amp;gt; Arrow keys -&amp;gt; &lt;code>Enter&lt;/code> to navigate between different Google accounts (not sure how much faster this is/if it is faster)&lt;/li>
 &lt;li>Raycast
@@ -37,8 +37,10 @@ I&amp;rsquo;ve also convinced at least 4 other friends to buy their own.&lt;/li>
 &lt;li>On Mac, the default screenshot + save to clipboard is &amp;ldquo;Cmd+Shift+Ctrl+4&amp;rdquo; which usually takes two hands to press, but you can rebind this to to &amp;ldquo;Cmd+Shift+4&amp;rdquo; which from System Settings &amp;gt; Keyboard Shortcuts &amp;gt; Keyboard &amp;gt; Screenshots (thanks Will).&lt;/li>
 &lt;li>Add archive.is/[link] to view WSJ or other paywalled sites.&lt;/li>
 &lt;li>&lt;a href="https://github.com/vncntt/vimdocs">Vim for Google Docs extension&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/westonz7042/diamondhacks2025">Anki generator extension&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://substack.com/@henrikkarlsson/note/c-108623056">https://substack.com/@henrikkarlsson/note/c-108623056&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/westonz7042/diamondhacks2025">Anki card generator extension&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://substack.com/@henrikkarlsson/note/c-108623056">Source&lt;/a>: If you&amp;rsquo;re single, a useful habit to build is that whenever you see someone that makes you curious, you go talk them. I mean in the supermarket and stuff. Not in a pickup artist way, but just being open to the world.&lt;/li>
+&lt;li>Obtain a full text version of a github repo: replace &lt;code>github.com/user/name_of_repo&lt;/code> with &lt;code>uithub.com/user/name_of_repo&lt;/code>&lt;/li>
+&lt;li>&lt;code>Cmd+l&lt;/code> to move cursor to the address bar.&lt;/li>
 &lt;/ol></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
 &lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
