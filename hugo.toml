@@ -2,7 +2,9 @@ baseURL = 'https://vvvincent.me'
 languageCode = 'en-us'
 title = 'Vincent Cheng'
 theme = "paper"
-paginate= 100
+
+[pagination]
+  pageSize = 100
 
 # Add this menu section
 [menu]
@@ -35,7 +37,7 @@ paginate= 100
   github = 'vncntt'
 
 [permalinks]
-  notes = "/:filename/"
+  notes = "/:contentbasename/"
 
 [module]
   [[module.imports]]
