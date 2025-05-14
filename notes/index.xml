@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on Vincent Cheng</title><link>https://vvvincent.me/notes/</link><description>Recent content in Notes on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://vvvincent.me/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>1% Improvements</title><link>https://vvvincent.me/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/1-improvements/</guid><description>&lt;p>Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on Vincent Cheng</title><link>https://vvvincent.me/notes/</link><description>Recent content in Notes on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://vvvincent.me/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>LLMs are Making Me Dumber</title><link>https://vvvincent.me/llms-are-making-me-dumber/</link><pubDate>Wed, 14 May 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/llms-are-making-me-dumber/</guid><description>&lt;p>Here are some ways I use LLMs that I think are making me dumber:&lt;/p>
+&lt;ul>
+&lt;li>When I want to build a Chrome extension for personal use, instead of actually learning and writing the JavaScript, I Claude-Code the whole thing in a couple of hours without writing a single line of code.
+Instead of taking the usual route which would leave me with more actual familiarity with JavaScript, I now shortcut the process leaving me with barely any JS knowledge despite numerous functioning applications.&lt;/li>
+&lt;li>When I need math homework done fast, I feed in the relevant textbook pages in context, dump my problems into o3/Gemini, and check its answers for sanity instead of doing the problems myself. I cram before tests. (Yes, this is morally dubious and terrible for learning.)&lt;/li>
+&lt;li>When I need to write an email, I often bullet-point what I want to write and ask the LLM to write out a coherent, cordial email. I’ve gotten worse at writing emails.&lt;/li>
+&lt;li>My first response to most problems is to ask an LLM, and this might atrophy my ability to come up with better solutions since my starting point is already in the LLM-solution space.&lt;/li>
+&lt;/ul>
+&lt;p>These are all deliberate trade-offs I make for the sake of output speed. By sacrificing depth in my learning, I can produce substantially more work. I’m unsure if I’m at the correct balance between output quantity and depth of learning.
+This uncertainty is mainly fueled by a sense of urgency due to rapidly improving AI models.
+I don’t have time to learn everything deeply. I love learning, but given current trends, I want to maximize immediate output. I’m sacrificing some learning in classes for more time doing outside work. From a teacher’s perspective, this is obviously bad, but from my subjective standpoint, it’s unclear.&lt;/p></description></item><item><title>1% Improvements</title><link>https://vvvincent.me/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/1-improvements/</guid><description>&lt;p>Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
 Most of these are embarrassingly simple, but that&amp;rsquo;s the point!
 Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p>
 &lt;p>I&amp;rsquo;ll keep updating this as I discover more.
@@ -9,7 +19,8 @@ Feel free to message me your favorites and I&amp;rsquo;ll include them!&lt;/p>
 &lt;li>&lt;code>Cmd+1, Cmd+2, ...&lt;/code> to navigate between tabs&lt;/li>
 &lt;li>&lt;code>Cmd+&lt;/code> ` to get around windows of the same app without the slow Mac sliding animation, but your windows have to be non-maximized. I never use maximized windows now beacuse I have the bind from 6 for &amp;ldquo;fill screen&amp;rdquo;&lt;/li>
 &lt;li>&lt;code>Tab+Enter&lt;/code> to fill out forms without using your mouse. &lt;code>Tab+&amp;quot;Answer&amp;quot;&lt;/code> where you type the answers out from a dropdown menu works too.&lt;/li>
-&lt;li>&lt;code>Cmd+Shift+m&lt;/code> -&amp;gt; Arrow keys -&amp;gt; &lt;code>Enter&lt;/code> to navigate between different Google accounts (not sure how much faster this is/if it is faster)&lt;/li>
+&lt;/ol>
+&lt;ol start="5">
 &lt;li>Raycast
 &lt;ul>
 &lt;li>Clipboard history (I don&amp;rsquo;t use it that much)&lt;/li>
@@ -40,7 +51,10 @@ I&amp;rsquo;ve also convinced at least 4 other friends to buy their own.&lt;/li>
 &lt;li>&lt;a href="https://github.com/westonz7042/diamondhacks2025">Anki card generator extension&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://substack.com/@henrikkarlsson/note/c-108623056">Source&lt;/a>: If you&amp;rsquo;re single, a useful habit to build is that whenever you see someone that makes you curious, you go talk them. I mean in the supermarket and stuff. Not in a pickup artist way, but just being open to the world.&lt;/li>
 &lt;li>Obtain a full text version of a github repo: replace &lt;code>github.com/user/name_of_repo&lt;/code> with &lt;code>uithub.com/user/name_of_repo&lt;/code>&lt;/li>
-&lt;li>&lt;code>Cmd+l&lt;/code> to move cursor to the address bar.&lt;/li>
+&lt;li>&lt;a href="granola.ai">Granola&lt;/a> for recording meetings.&lt;/li>
+&lt;li>&lt;a href="https://alt-tab-macos.netlify.app/">AltTab&lt;/a> for Windows alt-tab on macOS.&lt;/li>
+&lt;li>&lt;a href="https://rectangleapp.com/">Rectangle&lt;/a> for windows moving. This is a less hack-y version of the window moving system from Raycast above, but they&amp;rsquo;re essentially the same.&lt;/li>
+&lt;li>&lt;a href="https://www.beeper.com/">Beeper&lt;/a>. Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.&lt;/li>
 &lt;/ol></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
 &lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
@@ -66,11 +80,11 @@ A quick perplexity search &lt;a href="https://transformer-circuits.pub/2023/priv
 &lt;li>How do lightweight code-generation models like Cursor&amp;rsquo;s work?&lt;/li>
 &lt;li>What is going on in interpretability these days?&lt;/li>
 &lt;li>Why are all the benchmarks in math and coding competitions? What happened to physics?&lt;/li>
-&lt;/ol></description></item><item><title>Ideas</title><link>https://vvvincent.me/ideas/</link><pubDate>Fri, 17 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/ideas/</guid><description>&lt;p>Time is limited. These are ideas I&amp;rsquo;ve had, which given infinite time, I would explore.&lt;/p>
+&lt;/ol></description></item><item><title>Ideas</title><link>https://vvvincent.me/ideas/</link><pubDate>Fri, 17 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/ideas/</guid><description>&lt;p>Some ideas I find interesting but don&amp;rsquo;t have enough time to make a reality.&lt;/p>
 &lt;ul>
+&lt;li>A &amp;ldquo;See all context&amp;rdquo; button. This is especially useful for reasoning models since I want to know which parts of the reasoning were dropped so I know how much context to provide.
+You would have to drop sensitive information like like system prompts.&lt;/li>
 &lt;li>JARVIS. Models are capable enough already! We just need some better scaffolding like Cursor and some way to fit in a lot of context. I really liked GPT with scheduled tasks. If you patch 20 of these together, you get a really good assistant. One that would be &lt;em>proactive&lt;/em>. I don&amp;rsquo;t want to ever miss a call again.&lt;/li>
-&lt;li>Portable cameraman.
-Small, flying, self-adjusting camera? I really dislike taking photos but enjoy looking at them later on.&lt;/li>
 &lt;li>Surfing footage drone.
 Before surfing, I set off a drone which follows me and records cool footage of me catching waves.&lt;/li>
 &lt;li>Implement needle in a haystack.
