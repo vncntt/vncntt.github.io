@@ -6,7 +6,7 @@ title = 'LLMs are Making Me Dumber'
 
 Here are some ways I use LLMs that I think are making me dumber:
 - When I want to build a Chrome extension for personal use, instead of actually learning and writing the JavaScript, I Claude-Code the whole thing in a couple of hours without writing a single line of code. 
-Instead of taking the usual route which would leave me with more actual familiarity with JavaScript, I now shortcut the process leaving me with barely any JS knowledge despite numerous functioning applications.
+Instead of taking the usual route which would leave me with more actual familiarity with JavaScript, I now shortcut the process, leaving me with barely any JS knowledge despite numerous functioning applications.
 - When I need math homework done fast, I feed in the relevant textbook pages in context, dump my problems into o3/Gemini, and check its answers for sanity instead of doing the problems myself. I cram before tests. (Yes, this is morally dubious and terrible for learning.)
 - When I need to write an email, I often bullet-point what I want to write and ask the LLM to write out a coherent, cordial email. I’ve gotten worse at writing emails.
 - My first response to most problems is to ask an LLM, and this might atrophy my ability to come up with better solutions since my starting point is already in the LLM-solution space. 
@@ -15,18 +15,18 @@ These are all deliberate trade-offs I make for the sake of output speed. By sacr
 This uncertainty is mainly fueled by a sense of urgency due to rapidly improving AI models.
 I don’t have time to learn everything deeply. I love learning, but given current trends, I want to maximize immediate output. I’m sacrificing some learning in classes for more time doing outside work. From a teacher’s perspective, this is obviously bad, but from my subjective standpoint, it’s unclear.
 
-Before the rise of LLMs, learning was a prerequisite for output. Learning by building projects has always been the best way to improve at coding, but now, you can build without knowing all the details in the usual sense. Many interesting and valuable projects are doable by LLMs with my hand-holding. There’s so much low-hanging fruit that execution seems much more of a bottleneck than deep understanding and innovation.
+Before the rise of LLMs, learning was a prerequisite for output. Learning by building projects has always been the best way to improve at coding, but now, you can build things without deeply understanding the implementation. Many interesting and valuable projects are doable by LLMs with my hand-holding. There’s so much low-hanging fruit that execution seems much more of a bottleneck than deep understanding and innovation.
 
 However, I might be deluded as the tasks I’m doing are easy and in-distribution. If you do work at the very frontier, LLMs definitely aren’t as helpful and, for very good programmers, their use of these models for coding is [fundamentally different](https://simonwillison.net/2025/Mar/19/vibe-coding/). The question is how this plays out for junior engineers within the 3-5 year time frame. What do I do if LLMs are getting better at coding faster than me? I feel like Kasparov playing Deep Blue for the first time. 
 
-Claude-Code, o3, and Gemini 2.5-pro are extremely good. I can vibe-code full apps without knowing the language I’m writing in. I just need a good high-level understanding of the code and steer Claude when necessary. The key question is: Can you learn this high-level steering without having written a lot of the code yourself? Can you be a good SWE manager without going through the SWE work? As models become as competent as junior (and soon senior) engineers, does everyone become a manager?
+Claude-Code, o3, and Gemini 2.5 Pro are extremely good. I can vibe-code full apps without knowing the language I’m writing in. I just need a good high-level understanding of the code and steer Claude when necessary. The key question is: Can you learn this high-level steering without having written a lot of the code yourself? Can you be a good SWE manager without going through the SWE work? As models become as competent as junior (and soon senior) engineers, does everyone become a manager?
 
 The argument against “offloading learning to do things” is that I will soon hit a barrier and be unable to do anything new, as the LLMs limit my ability. 
 
 When vibe-coding, I’m essentially a wrapper around these models, providing the ability to take actions on a computer and some high-level coherence. Models will soon obtain these skills as well. Am I using the model as an assistant, or is it the other way around?
 
 ## Historical Analogies:
-- Calculators. People used to calculate logarithms by hand and entire careers would be spent doing calculations that can be done in <1 ms on a modern calculator. No one lamented the advent of calculators. It’s a perfect example of offloading menial work, allowing humans to spend more time on the interesting things. One distinguishing factor about this situation is that everyone still needs to learn arithmetic. We don’t say “don’t learn arithmetic! Calculators can do that already. Just go do algebra!” even though many influential people in AI do say you shouldn’t learn coding in the usual sense. You need arithmetic to do everything after. This analogy argues for “write 100,000 lines of code yourself before you start extensively using LLMs.” While calculators have automated away long calculations, we can still perform these calculations by hand if we needed to. However, I wouldn’t be able to write those lines of JavaScript manually. It’s a different level of abstraction.
+- Calculators. People used to calculate logarithms by hand and entire careers would be spent doing calculations that can be done in <1 ms on a modern calculator. No one lamented the advent of calculators. It’s a perfect example of offloading menial work, allowing humans to spend more time on the meaningful problems. One distinguishing factor about this situation is that everyone still needs to learn arithmetic. We don’t say “don’t learn arithmetic! Calculators can do that already. Just go do algebra!” even though many influential people in AI do say you shouldn’t learn coding in the usual sense. You need arithmetic to do everything after. This analogy argues for “write 100,000 lines of code yourself before you start extensively using LLMs.” While calculators have automated away long calculations, we can still perform these calculations by hand if we needed to. However, I wouldn’t be able to write those lines of JavaScript manually. It’s a different level of abstraction.
 - GPS. It’s so reliable that I’m fine being unable to navigate. 
 I’ve never gotten in a situation where I wish I had learned to navigate without Google Maps beforehand. 
 But this is also a narrow skill that isn't foundational to other higher-order ones. 
@@ -60,7 +60,7 @@ Using these models as tutors to supercharge learning and speed up output is a po
 They’ll explain questions I have about the math concepts instead of doing my homework.
 They’ll nudge me to where the bug is and I’ll make the change myself instead of tabbing.
 
-This is the dream use case of LLMs for teachers. You add scaffolding so that instead of following all your instructions, it acts as a teacher would, rejecting requests that are harmful for learning (obviously you can already do this but discipline isn't scalable). Obligatory who’s building the Cursor for tutoring?
+This is the dream use case of LLMs for teachers. You add scaffolding so that instead of following all your instructions, it acts as a teacher would, rejecting requests that are harmful for learning (obviously you can already do this, but discipline isn't scalable). Obligatory who’s building the Cursor for tutoring?
 
 However, grinding out the repetitive tasks is also what ingrains these skills into your system 1. A similar analogy holds for LLMs themselves: a model that internalizes and manipulates information at a latent level is fundamentally different from one that manipulates retrieved information at the token level. The same goes for humans. When applying a theorem for the first time, I have to decompose each part and operate each part in my mind separately. Mathematicians batch multiple theorems into a single conceptual unit, allowing them to process more complex ideas. It’s [*the Magical Number Seven, Plus or Minus Two*](https://psychclassics.yorku.ca/Miller/). To learn the content, you must go through the motions yourself. You can’t abstract it away. 
 
@@ -90,7 +90,7 @@ Inevitably, parts of my brain will degenerate and fade away, so I need to consci
     - Read books.
     - Work on large, meaningful projects.
 
-Thanks for Jason, Femi, Miles, Gemini, GPT-4.5 and more for feedback.
+Thanks to Jason, Femi, Miles, Gemini, GPT-4.5 and more for feedback.
 
 ## Relevant reads:
 
