@@ -4,13 +4,12 @@ draft = false
 title = 'Ideas'
 +++
 
-Time is limited. These are ideas I've had, which given infinite time, I would explore.
+Some ideas I find interesting but don't have enough time to make a reality.
 
 
-
+- A "See all context" button. This is especially useful for reasoning models since I want to know which parts of the reasoning were dropped so I know how much context to provide.
+You would have to drop sensitive information like like system prompts. 
 - JARVIS. Models are capable enough already! We just need some better scaffolding like Cursor and some way to fit in a lot of context. I really liked GPT with scheduled tasks. If you patch 20 of these together, you get a really good assistant. One that would be *proactive*. I don't want to ever miss a call again.
-- Portable cameraman. 
-Small, flying, self-adjusting camera? I really dislike taking photos but enjoy looking at them later on. 
 - Surfing footage drone. 
 Before surfing, I set off a drone which follows me and records cool footage of me catching waves.
 - Implement needle in a haystack. 
