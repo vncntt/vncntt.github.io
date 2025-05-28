@@ -23,7 +23,7 @@ Feel free to message me your favorites and I&amp;rsquo;ll include them!&lt;/p>
 &lt;ol start="5">
 &lt;li>Raycast
 &lt;ul>
-&lt;li>Clipboard history (I don&amp;rsquo;t use it that much)&lt;/li>
+&lt;li>Clipboard history &lt;del>(I don&amp;rsquo;t use it that much)&lt;/del> I have started using it more. It is very useful. You have to intentionally find situations where this is helpful since I was so used to switching back and forth when copying different sets of things that I didn&amp;rsquo;t realize I could use this feature.&lt;/li>
 &lt;li>Window management has never been so easy:
 &lt;ul>
 &lt;li>I bound &lt;code>Cmd+Shift+j/k&lt;/code> to left/right half for window management.&lt;/li>
@@ -55,6 +55,7 @@ I&amp;rsquo;ve also convinced at least 4 other friends to buy their own.&lt;/li>
 &lt;li>&lt;a href="https://alt-tab-macos.netlify.app/">AltTab&lt;/a> for Windows alt-tab on macOS.&lt;/li>
 &lt;li>&lt;a href="https://rectangleapp.com/">Rectangle&lt;/a> for windows moving. This is a less hack-y version of the window moving system from Raycast above, but they&amp;rsquo;re essentially the same.&lt;/li>
 &lt;li>&lt;a href="https://www.beeper.com/">Beeper&lt;/a>. Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.&lt;/li>
+&lt;li>&lt;a href="https://excalidraw.com/">Excalidraw&lt;/a> is good for sketching.&lt;/li>
 &lt;/ol></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
 &lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
