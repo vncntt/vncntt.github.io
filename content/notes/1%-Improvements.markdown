@@ -19,7 +19,7 @@ Feel free to message me your favorites and I'll include them!
 4. `Tab+Enter` to fill out forms without using your mouse. `Tab+"Answer"` where you type the answers out from a dropdown menu works too.
 <!-- 5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts (not sure how much faster this is/if it is faster) -->
 5. Raycast
-   - Clipboard history (I don't use it that much)
+   - Clipboard history ~~(I don't use it that much)~~ I have started using it more. It is very useful. You have to intentionally find situations where this is helpful since I was so used to switching back and forth when copying different sets of things that I didn't realize I could use this feature.
    - Window management has never been so easy: 
       - I bound `Cmd+Shift+j/k` to left/right half for window management. 
       - I'm currently in the Raycast free trial since I wanted a custom window management command `Cmd+Shift+n` for largest non-maximized window (see 2). We'll see if it's worth it in two weeks.
@@ -46,4 +46,5 @@ I've also convinced at least 4 other friends to buy their own.
 22. [AltTab](https://alt-tab-macos.netlify.app/) for Windows alt-tab on macOS. 
 23. [Rectangle](https://rectangleapp.com/) for windows moving. This is a less hack-y version of the window moving system from Raycast above, but they're essentially the same.  
 24. [Beeper](https://www.beeper.com/). Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.
+25. [Excalidraw](https://excalidraw.com/) is good for sketching.
 

@@ -1,0 +1,35 @@
+/* Custom CSS to override the theme styles */
+
+/* Override text size for blog posts (notes) */
+article {
+  font-size: 0.875rem !important; /* Change this value to adjust text size */
+  line-height: 1.6 !important;
+}
+
+/* Override styles for entire content area of the article - this should target all the text */
+article section p,
+article section ul,
+article section ol,
+article section li {
+  font-size: 0.875rem !important;
+  line-height: 1.6 !important;
+}
+
+/* Increase specificity of the selector to ensure it takes precedence */
+body article,
+.prose article,
+main article {
+  font-size: 0.875rem !important;
+  line-height: 1.6 !important;
+}
+
+/* Target .prose class which applies to the article content */
+.prose {
+  font-size: 0.875rem !important;
+  line-height: 1.6 !important;
+}
+
+/* Target direct children of the article section - where the content is */
+article section > * {
+  font-size: 0.875rem !important;
+}

@@ -144,7 +144,7 @@ $$
 
 which, voila, is just  $F = ma$  which is Newton's second law. 
 
-## Show how Euler-Lagrange's Equation implies Fermat's Principle of Least Time
+<!-- ## Show how Euler-Lagrange's Equation implies Fermat's Principle of Least Time
 todo
 ## Write out the Lagrangian for a double pendulum
-todo
+todo -->

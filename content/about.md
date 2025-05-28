@@ -4,7 +4,7 @@ draft = false
 title = 'About'
 +++
 
-Hey! I'm Vincent Cheng, an freshman Math-CS major at UCSD. I've attended [Ross](https://rossprogram.org/), [WARP](warp.camp), [IOAI](https://ioai-official.org/), and was an [2023 Atlas fellow](https://www.atlasfellowship.org/).
+Hey! I'm Vincent Cheng, an freshman Math-CS major at UCSD. I've attended [Ross](https://rossprogram.org/), [WARP](warp.camp), [IOAI](https://ioai-official.org/), and was a [2023 Atlas fellow](https://www.atlasfellowship.org/).
 I change my mind about things very often, but wanting to learn new things is a constant! I'm interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!
 
 
