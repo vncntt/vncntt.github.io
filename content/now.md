@@ -2,6 +2,8 @@
 date = '2025-02-10T01:44:37-08:00'
 draft = false 
 title = 'Now'
+description = "What Vincent Cheng is currently working on - AI projects, evals, and school at UCSD."
+keywords = ["Vincent Cheng", "now", "current projects", "AI", "UCSD"]
 +++
 
 <!-- # What I'm Doing Now (updated 6/22) -->
@@ -42,9 +44,17 @@ title = 'Now'
 - Working on [Reasoning Gym](https://github.com/open-thought/reasoning-gym) now and then
 - Trying to figure out what to do over the summer
 - Fun projects like [this](https://vncntt.github.io/metal_pins) -->
-## What I'm Doing Now (updated 4/19)
+
+<!-- ## What I'm Doing Now (updated 4/19)
 
 - Working on an AI control project with Josh Clymer 
 - Thinking about and trying to make good evals
 - Deciding what to do over the summer
-- School
+- School -->
+
+## What I'm Doing Now (updated 6/8)
+
+- Finishing up my year at UCSD
+- Reading The Selfish Gene
+- In SF for the summer!
+- Wandering

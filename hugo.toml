@@ -35,6 +35,14 @@ theme = "paper"
 
   twitter = 'vvvincent_c'
   github = 'vncntt'
+  
+  # SEO and metadata
+  description = "Vincent Cheng, UCSD Math-CS student, Cornell, Atlas fellow, Redwood, METR, Felicis Fellow,  Interested in math, ML, AI, Brazilian Jiu-Jitsu, tennis, learning, and arm-wrestling."
+  author = "Vincent Cheng"
+  keywords = ["Vincent Cheng", "UCSD", "Cornell", "Math-CS", "Atlas Fellow", "Ross", "WARP", "IOAI", "ML", "AI"]
+
+  images = ["/photo_new.jpg"]
+  ogImage = "/photo_new.jpg"
 
 [permalinks]
   notes = "/:filename/"

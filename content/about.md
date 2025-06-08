@@ -2,6 +2,8 @@
 date = '2025-02-10T01:44:29-08:00'
 draft = false 
 title = 'About'
+description = "Learn about Vincent Cheng - UCSD Math-CS student, Cornell transfer, Atlas Fellow. Interested in math, ML, AI, and Brazilian Jiu-Jitsu."
+keywords = ["Vincent Cheng", "about", "UCSD", "Cornell", "Atlas Fellowship", "math", "computer science", "machine learning"]
 +++
 
 Hey! I'm Vincent Cheng, an freshman Math-CS major at UCSD. I've attended [Ross](https://rossprogram.org/), [WARP](warp.camp), [IOAI](https://ioai-official.org/), and was a [2023 Atlas fellow](https://www.atlasfellowship.org/).
@@ -18,7 +20,7 @@ Want to know what I'm up to right now? Check out my [now page](https://vncntt.gi
 - [Discord](https://discord.com/users/vvvincent)
 - [Email](mailto:vincentcheng236@gmail.com)
 
-![alt text](/photo_new.jpg)
+![Vincent Cheng - Cornell Math student](/photo_new.jpg)
 
 
 

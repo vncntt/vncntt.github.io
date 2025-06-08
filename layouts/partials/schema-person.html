@@ -1,0 +1,52 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Vincent Cheng",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ .Site.BaseURL }}photo_new.jpg",
+  "description": "{{ .Site.Params.description }}",
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of California, San Diego",
+      "sameAs": "https://ucsd.edu"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Cornell University",
+      "sameAs": "https://cornell.edu"
+    }
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Atlas Fellowship",
+      "url": "https://www.atlasfellowship.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Ross Mathematics Program",
+      "url": "https://rossprogram.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "WARP",
+      "url": "https://warp.camp"
+    },
+    {
+      "@type": "Organization",
+      "name": "IOAI",
+      "url": "https://ioai-official.org/"
+    }
+  ],
+  "sameAs": [
+    "https://twitter.com/{{ .Site.Params.twitter }}",
+    "https://github.com/{{ .Site.Params.github }}"
+  ],
+  "jobTitle": "Student",
+  "knowsAbout": ["Mathematics", "Computer Science", "Machine Learning", "Artificial Intelligence", "Brazilian Jiu-Jitsu"]
+}
+</script>
+{{ end }}
