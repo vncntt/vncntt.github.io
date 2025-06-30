@@ -20,9 +20,9 @@ Feel free to message me your favorites and I'll include them!
 <!-- 5. `Cmd+Shift+m` -> Arrow keys -> `Enter` to navigate between different Google accounts (not sure how much faster this is/if it is faster) -->
 5. Raycast
    - Clipboard history ~~(I don't use it that much)~~ I have started using it more. It is very useful. You have to intentionally find situations where this is helpful since I was so used to switching back and forth when copying different sets of things that I didn't realize I could use this feature.
-   - Window management has never been so easy: 
+   <!-- - Window management has never been so easy: 
       - I bound `Cmd+Shift+j/k` to left/right half for window management. 
-      - I'm currently in the Raycast free trial since I wanted a custom window management command `Cmd+Shift+n` for largest non-maximized window (see 2). We'll see if it's worth it in two weeks.
+      - I'm currently in the Raycast free trial since I wanted a custom window management command `Cmd+Shift+n` for largest non-maximized window (see 2). We'll see if it's worth it in two weeks. -->
    - Snippets: I bound `@@` and `!@` to common emails.
 6. A goddamn mouse. I use a random Logitech one and there are definitely better ones out there. Send me what you use!
 7. [Dell 40 inch curved monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories). 
@@ -44,7 +44,10 @@ I've also convinced at least 4 other friends to buy their own.
 20. Obtain a full text version of a github repo: replace `github.com/user/name_of_repo` with `uithub.com/user/name_of_repo`
 21. [Granola](granola.ai) for recording meetings.
 22. [AltTab](https://alt-tab-macos.netlify.app/) for Windows alt-tab on macOS. 
-23. [Rectangle](https://rectangleapp.com/) for windows moving. This is a less hack-y version of the window moving system from Raycast above, but they're essentially the same.  
+23. *[Rectangle](https://rectangleapp.com/) for windows management. cmd+shift+j for left half, Cmd+Shift+k for right half, Cmd+Shift+b for maximize, Cmd+Shift+c for next display. 
 24. [Beeper](https://www.beeper.com/). Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.
 25. [Excalidraw](https://excalidraw.com/) is good for sketching.
-
+26. Discord keybindings: "Cmd+k" to search for channel name, Cmd+Shift+u to upload file, "Cmd+f" for search
+27. Binding next cell and previous cell in Google Colab since the Vim commands don't work for naviagting between cells.
+28. [Tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
+29. [Vimium](https://vimium.github.io/)
