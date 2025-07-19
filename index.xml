@@ -11,60 +11,57 @@ This uncertainty is mainly fueled by a sense of urgency due to rapidly improving
 I don’t have time to learn everything deeply. I love learning, but given current trends, I want to maximize immediate output. I’m sacrificing some learning in classes for more time doing outside work. From a teacher’s perspective, this is obviously bad, but from my subjective standpoint, it’s unclear.&lt;/p></description></item><item><title>1% Improvements</title><link>https://vvvincent.me/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/1-improvements/</guid><description>&lt;p>Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
 Most of these are embarrassingly simple, but that&amp;rsquo;s the point!
 Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p>
-&lt;p>I&amp;rsquo;ll keep updating this as I discover more.
-Many are specific to Mac + Chrome.
-Feel free to message me your favorites and I&amp;rsquo;ll include them!&lt;/p>
-&lt;ol>
-&lt;li>&lt;code>Cmd+l&lt;/code> to get to search bar&lt;/li>
-&lt;li>&lt;code>Cmd+1, Cmd+2, ...&lt;/code> to navigate between tabs&lt;/li>
-&lt;li>&lt;code>Cmd+&lt;/code> ` to get around windows of the same app without the slow Mac sliding animation, but your windows have to be non-maximized. I never use maximized windows now beacuse I have the bind from 6 for &amp;ldquo;fill screen&amp;rdquo;&lt;/li>
-&lt;li>&lt;code>Tab+Enter&lt;/code> to fill out forms without using your mouse. &lt;code>Tab+&amp;quot;Answer&amp;quot;&lt;/code> where you type the answers out from a dropdown menu works too.&lt;/li>
-&lt;/ol>
-&lt;ol start="5">
-&lt;li>Raycast
+&lt;p>I will continually update this every ~month and try to only include things that I have kept up using for more than a month.
+Message me your favorites and I&amp;rsquo;ll include them!&lt;/p></description></item><item><title>Now</title><link>https://vvvincent.me/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vvvincent.me/now/</guid><description>&lt;!-- # What I'm Doing Now (updated 6/22) -->
+&lt;!-- - Grinding for IOAI 2024 -->
+&lt;!-- - Staying in London for a month -->
+&lt;!-- - Training 5 days a week for my first bjj competition -->
+&lt;!-- # What I'm Doing Now (updated 9/24)
+
+- Reading a lot of interesting articles/papers/books
+- Trying to write more notes (my IOAI experience, how to beat everyone* at arm-wrestling, my first six months of bjj, weird phenomena in high dimensions)
+- Learning more linear algebra
+- Lots of BJJ -->
+&lt;!-- # What I'm Doing Now (updated 11/20)
+
+- Taking lin alg, abs alg, probability, cs, neurobio classes, trying to get a 4.0 (succeeded!)
+- Playing tennis, doing bjj
+- Veritasium research 
+- Side quests!
+- Trying to not "talk about what I want to do" but actually "doing" -->
+&lt;!-- ## What I'm Doing Now (updated 12/26)
+
+- Making videos for Veritasium
+- In NYC until 1/2 (would love to meetup with ppl!)
+- Learning some RL
+- Taking more math classes in school -->
+&lt;!-- ## What I'm Doing Now (updated 2/23)
+
+- Writing my own video!
+- School stuff
+- Working on [Reasoning Gym](https://github.com/open-thought/reasoning-gym) now and then
+- Trying to figure out what to do over the summer
+- Fun projects like [this](https://vncntt.github.io/metal_pins) -->
+&lt;!-- ## What I'm Doing Now (updated 4/19)
+
+- Working on an AI control project with Josh Clymer 
+- Thinking about and trying to make good evals
+- Deciding what to do over the summer
+- School -->
+&lt;!-- ## What I'm Doing Now (updated 6/8)
+
+- Finishing up my year at UCSD
+- Reading The Selfish Gene
+- In SF for the summer!
+- Wandering -->
+&lt;h2 id="what-im-doing-now-updated-719">What I&amp;rsquo;m Doing Now (updated 7/19)&lt;/h2>
 &lt;ul>
-&lt;li>Clipboard history &lt;del>(I don&amp;rsquo;t use it that much)&lt;/del> I have started using it more. It is very useful. You have to intentionally find situations where this is helpful since I was so used to switching back and forth when copying different sets of things that I didn&amp;rsquo;t realize I could use this feature.&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>Snippets: I bound &lt;code>@@&lt;/code> and &lt;code>!@&lt;/code> to common emails.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>A goddamn mouse. I use a random Logitech one and there are definitely better ones out there. Send me what you use!&lt;/li>
-&lt;li>&lt;a href="https://www.dell.com/en-us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories">Dell 40 inch curved monitor&lt;/a>.&lt;/li>
-&lt;li>If your LLM starts generating a response and you realize you missed something, edit your original message directly instead of sending a follow-up correction. It keeps the conversation cleaner.&lt;/li>
-&lt;li>I bound Vim&amp;rsquo;s copy to clipboard (&lt;code>&amp;quot;+y&lt;/code>) &lt;code>\&lt;/code>. There are definitely a ton of vimrc shenanigans that I&amp;rsquo;m not abusing. Send me your favorite ones!&lt;/li>
-&lt;li>You can use your iPad as an extended display to your Mac without any setup! Discovering this inspired me to write this post.&lt;/li>
-&lt;li>Shift+select tabs and drag out to get a set of tabs to a new window.&lt;/li>
-&lt;li>My &lt;a href="https://www.amazon.com/dp/B0B5ZSLHG2?ref=ppx_yo2ov_dt_b_fed_asin_title">scooter&lt;/a> is one of the highest value things I&amp;rsquo;ve bought in the past year and I can&amp;rsquo;t imagine my life without one now.
-This one is at least a 5% improvement
-It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
-I&amp;rsquo;ve also convinced at least 4 other friends to buy their own.&lt;/li>
-&lt;li>Whenever I see someone with a cool personal website, I send a one sentence email telling them it&amp;rsquo;s nice :))&lt;/li>
-&lt;li>For Apple Notes on Mac: There isn&amp;rsquo;t a default keybinding for strikethrough but you can bind it yourself through &lt;a href="https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n/?utm_source=share&amp;amp;utm_medium=web3x&amp;amp;utm_name=web3xcss&amp;amp;utm_term=1&amp;amp;utm_content=share_button">this&lt;/a>.&lt;/li>
-&lt;li>On Mac, the default screenshot + save to clipboard is &amp;ldquo;Cmd+Shift+Ctrl+4&amp;rdquo; which usually takes two hands to press, but you can rebind this to to &amp;ldquo;Cmd+Shift+4&amp;rdquo; which from System Settings &amp;gt; Keyboard Shortcuts &amp;gt; Keyboard &amp;gt; Screenshots (thanks Will).&lt;/li>
-&lt;li>Add archive.is/[link] to view WSJ or other paywalled sites.&lt;/li>
-&lt;li>&lt;a href="https://github.com/vncntt/vimdocs">Vim for Google Docs extension&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/westonz7042/diamondhacks2025">Anki card generator extension&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://substack.com/@henrikkarlsson/note/c-108623056">Source&lt;/a>: If you&amp;rsquo;re single, a useful habit to build is that whenever you see someone that makes you curious, you go talk them. I mean in the supermarket and stuff. Not in a pickup artist way, but just being open to the world.&lt;/li>
-&lt;li>Obtain a full text version of a github repo: replace &lt;code>github.com/user/name_of_repo&lt;/code> with &lt;code>uithub.com/user/name_of_repo&lt;/code>&lt;/li>
-&lt;li>&lt;a href="granola.ai">Granola&lt;/a> for recording meetings.&lt;/li>
-&lt;li>&lt;a href="https://alt-tab-macos.netlify.app/">AltTab&lt;/a> for Windows alt-tab on macOS.&lt;/li>
-&lt;li>*&lt;a href="https://rectangleapp.com/">Rectangle&lt;/a> for windows management. cmd+shift+j for left half, Cmd+Shift+k for right half, Cmd+Shift+b for maximize, Cmd+Shift+c for next display.&lt;/li>
-&lt;li>&lt;a href="https://www.beeper.com/">Beeper&lt;/a>. Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.&lt;/li>
-&lt;li>&lt;a href="https://excalidraw.com/">Excalidraw&lt;/a> is good for sketching.&lt;/li>
-&lt;li>Discord keybindings: &amp;ldquo;Cmd+k&amp;rdquo; to search for channel name, Cmd+Shift+u to upload file, &amp;ldquo;Cmd+f&amp;rdquo; for search&lt;/li>
-&lt;li>Binding next cell and previous cell in Google Colab since the Vim commands don&amp;rsquo;t work for naviagting between cells.&lt;/li>
-&lt;li>&lt;a href="https://www.redhat.com/en/blog/introduction-tmux-linux">Tmux&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://vimium.github.io/">Vimium&lt;/a>&lt;/li>
-&lt;/ol></description></item><item><title>Now</title><link>https://vvvincent.me/now/</link><pubDate>Mon, 10 Feb 2025 01:44:37 -0800</pubDate><guid>https://vvvincent.me/now/</guid><description>&lt;h2 id="what-im-doing-now-updated-68">What I&amp;rsquo;m Doing Now (updated 6/8)&lt;/h2>
-&lt;ul>
-&lt;li>Finishing up my year at UCSD&lt;/li>
-&lt;li>Reading The Selfish Gene&lt;/li>
-&lt;li>In SF for the summer!&lt;/li>
-&lt;li>Wandering&lt;/li>
-&lt;/ul></description></item><item><title>About</title><link>https://vvvincent.me/about/</link><pubDate>Mon, 10 Feb 2025 01:44:29 -0800</pubDate><guid>https://vvvincent.me/about/</guid><description>&lt;p>Hey! I&amp;rsquo;m Vincent Cheng, an freshman Math-CS major at UCSD. I&amp;rsquo;ve attended &lt;a href="https://rossprogram.org/">Ross&lt;/a>, &lt;a href="warp.camp">WARP&lt;/a>, &lt;a href="https://ioai-official.org/">IOAI&lt;/a>, and was a &lt;a href="https://www.atlasfellowship.org/">2023 Atlas fellow&lt;/a>.
-I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!&lt;/p>
-&lt;p>I read a lot of articles and save them in my &lt;a href="https://curius.app/vincent-cheng">Curius bookshelf&lt;/a>! Check it out and get Curius yourself too.&lt;/p></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
+&lt;li>Working at &lt;a href="https://metr.org/">METR&lt;/a> over the summer on some CoT monitoring projects!&lt;/li>
+&lt;li>In Berkeley/SF&lt;/li>
+&lt;/ul></description></item><item><title>About</title><link>https://vvvincent.me/about/</link><pubDate>Mon, 10 Feb 2025 01:44:29 -0800</pubDate><guid>https://vvvincent.me/about/</guid><description>&lt;p>Hey, I&amp;rsquo;m Vincent!
+I was a freshman at UCSD and am a sophomore studying math at Cornell now.&lt;/p>
+&lt;p>I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m especially interested in math, ML, AI safety, Brazilian Jiu-Jitsu, and meeting new people. Message or email me if you want to talk!&lt;/p>
+&lt;p>Things I&amp;rsquo;ve been a part of and enjoyed: &lt;a href="https://rossprogram.org/">Ross&lt;/a>, &lt;a href="https://www.warp.camp/">WARP&lt;/a>, &lt;a href="https://www.atlasfellowship.org/">Atlas&lt;/a>, &lt;a href="https://www.youtube.com/@veritasium">Veritasium&lt;/a> (I worked there part time for six months. Message me to hear the story!).&lt;/p></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
 &lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
 &lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins">
@@ -120,28 +117,28 @@ In BJJ, there are black belts who are still not familiar with many positions.
 There is definitely still lots of practice spent honing details of specific moves, but it feels like there is more pure learning (compared to refining) going on.
 Given any move or position, you can break it down into broad principles, details, counters, and counter counters.
 It&amp;rsquo;s a lot like physical chess.&lt;/p></description></item><item><title>Media I've Enjoyed</title><link>https://vvvincent.me/media-ive-enjoyed/</link><pubDate>Thu, 26 Dec 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/media-ive-enjoyed/</guid><description>&lt;p>obviously non-exhaustive&lt;/p>
-&lt;!-- raw HTML omitted -->
+&lt;summary>Movies/shows&lt;/summary>
 &lt;ul>
-&lt;li>Monster (Japanese movie): messes with your head. 8/10&lt;!-- raw HTML omitted -->&lt;/li>
+&lt;li>Monster (Japanese movie): messes with your head. 8/10&lt;br>&lt;/li>
 &lt;li>Squid Game&lt;/li>
-&lt;li>The Prestige: It&amp;rsquo;s so good. I don&amp;rsquo;t get how it&amp;rsquo;s not Interstellar-level popular. 10/10&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Alice in Borderland&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Top Gun&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Money Heist&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Stranger Things&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Arrival&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>火神的眼淚&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>模仿犯&lt;!-- raw HTML omitted -->&lt;/li>
+&lt;li>The Prestige: It&amp;rsquo;s so good. I don&amp;rsquo;t get how it&amp;rsquo;s not Interstellar-level popular. 10/10&lt;br>&lt;/li>
+&lt;li>Alice in Borderland&lt;br>&lt;/li>
+&lt;li>Top Gun&lt;br>&lt;/li>
+&lt;li>Money Heist&lt;br>&lt;/li>
+&lt;li>Stranger Things&lt;br>&lt;/li>
+&lt;li>Arrival&lt;br>&lt;/li>
+&lt;li>火神的眼淚&lt;br >&lt;/li>
+&lt;li>模仿犯&lt;br>&lt;/li>
 &lt;/ul>
-&lt;!-- raw HTML omitted -->
+&lt;summary>Books&lt;/summary>
 &lt;ul>
-&lt;li>Open (Agassi biography)&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Three Body Problem series&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>When Breath Becomes Air&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Tomorrow, and Tomorrow, and Tomorrow&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>How Not to Be Wrong&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>Norwegian Wood&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>There is No Antimemetics Division&lt;!-- raw HTML omitted -->&lt;/li>
+&lt;li>Open (Agassi biography)&lt;br>&lt;/li>
+&lt;li>Three Body Problem series&lt;br>&lt;/li>
+&lt;li>When Breath Becomes Air&lt;br>&lt;/li>
+&lt;li>Tomorrow, and Tomorrow, and Tomorrow&lt;br>&lt;/li>
+&lt;li>How Not to Be Wrong&lt;br>&lt;/li>
+&lt;li>Norwegian Wood&lt;br>&lt;/li>
+&lt;li>There is No Antimemetics Division&lt;br>&lt;/li>
 &lt;/ul></description></item><item><title>Thoughts On Cursor</title><link>https://vvvincent.me/thoughts-on-cursor/</link><pubDate>Sat, 09 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/thoughts-on-cursor/</guid><description>&lt;p>My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p>
 &lt;p>Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href="https://github.com/vncntt/webbot">pretty nice scraper&lt;/a> in two afternoons. It just works.&lt;/p>
 &lt;p>However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p>
