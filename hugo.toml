@@ -50,3 +50,8 @@ theme = "paper"
 [module]
   [[module.imports]]
     path = "github.com/nanxiaobei/hugo-paper"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

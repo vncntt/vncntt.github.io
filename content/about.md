@@ -6,21 +6,21 @@ description = "Learn about Vincent Cheng - UCSD Math-CS student, Cornell transfe
 keywords = ["Vincent Cheng", "about", "UCSD", "Cornell", "Atlas Fellowship", "math", "computer science", "machine learning"]
 +++
 
-Hey! I'm Vincent Cheng, an freshman Math-CS major at UCSD. I've attended [Ross](https://rossprogram.org/), [WARP](warp.camp), [IOAI](https://ioai-official.org/), and was a [2023 Atlas fellow](https://www.atlasfellowship.org/).
-I change my mind about things very often, but wanting to learn new things is a constant! I'm interested in math, ML, what the future with AI will look like, Brazilian Jiu-Jitsu, arm-wrestling, and meeting new people. Message/email me!
+Hey, I'm Vincent!
+I was a freshman at UCSD and am a sophomore studying math at Cornell now.
 
+I change my mind about things very often, but wanting to learn new things is a constant! I'm especially interested in math, ML, AI safety, Brazilian Jiu-Jitsu, and meeting new people. Message or email me if you want to talk!
 
-I read a lot of articles and save them in my [Curius bookshelf](https://curius.app/vincent-cheng)! Check it out and get Curius yourself too.
+Things I've been a part of and enjoyed: [Ross](https://rossprogram.org/), [WARP](https://www.warp.camp/), [Atlas](https://www.atlasfellowship.org/), [Veritasium](https://www.youtube.com/@veritasium) (I worked there part time for six months. Message me to hear the story!).
 
-
-Want to know what I'm up to right now? Check out my [now page](https://vncntt.github.io/now/).
-
-## Let's Connect!
-- [Twitter](https://twitter.com/vvvincent_c)
+## Contact + Things
+- [Twitter](https://x.com/vvvincent_c)
 - [Discord](https://discord.com/users/vvvincent)
 - [Email](mailto:vincentcheng236@gmail.com)
+- [Curius](https://curius.app/vincent-cheng)
+- [Github](https://github.com/vncntt)
 
-![Vincent Cheng - Cornell Math student](/photo_new.jpg)
+![Vincent Cheng](/headshot.jpg)
 
 
 
