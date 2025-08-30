@@ -1,160 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on Vincent Cheng</title><link>https://vvvincent.me/notes/</link><description>Recent content in Notes on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://vvvincent.me/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>LLMs are Making Me Dumber</title><link>https://vvvincent.me/llms-are-making-me-dumber/</link><pubDate>Wed, 14 May 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/llms-are-making-me-dumber/</guid><description>&lt;p>Here are some ways I use LLMs that I think are making me dumber:&lt;/p>
-&lt;ul>
-&lt;li>When I want to build a Chrome extension for personal use, instead of actually learning and writing the JavaScript, I Claude-Code the whole thing in a couple of hours without writing a single line of code.
-Instead of taking the usual route which would leave me with more actual familiarity with JavaScript, I now shortcut the process, leaving me with barely any JS knowledge despite numerous functioning applications.&lt;/li>
-&lt;li>When I need math homework done fast, I feed in the relevant textbook pages in context, dump my problems into o3/Gemini, and check its answers for sanity instead of doing the problems myself. I cram before tests. (Yes, this is morally dubious and terrible for learning.)&lt;/li>
-&lt;li>When I need to write an email, I often bullet-point what I want to write and ask the LLM to write out a coherent, cordial email. I’ve gotten worse at writing emails.&lt;/li>
-&lt;li>My first response to most problems is to ask an LLM, and this might atrophy my ability to come up with better solutions since my starting point is already in the LLM-solution space.&lt;/li>
-&lt;/ul>
-&lt;p>These are all deliberate trade-offs I make for the sake of output speed. By sacrificing depth in my learning, I can produce substantially more work. I’m unsure if I’m at the correct balance between output quantity and depth of learning.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on Vincent Cheng</title><link>https://vvvincent.me/notes/</link><description>Recent content in Notes on Vincent Cheng</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://vvvincent.me/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>LLMs are Making Me Dumber</title><link>https://vvvincent.me/llms-are-making-me-dumber/</link><pubDate>Wed, 14 May 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/llms-are-making-me-dumber/</guid><description>&lt;p&gt;Here are some ways I use LLMs that I think are making me dumber:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When I want to build a Chrome extension for personal use, instead of actually learning and writing the JavaScript, I Claude-Code the whole thing in a couple of hours without writing a single line of code.
+Instead of taking the usual route which would leave me with more actual familiarity with JavaScript, I now shortcut the process, leaving me with barely any JS knowledge despite numerous functioning applications.&lt;/li&gt;
+&lt;li&gt;When I need math homework done fast, I feed in the relevant textbook pages in context, dump my problems into o3/Gemini, and check its answers for sanity instead of doing the problems myself. I cram before tests. (Yes, this is morally dubious and terrible for learning.)&lt;/li&gt;
+&lt;li&gt;When I need to write an email, I often bullet-point what I want to write and ask the LLM to write out a coherent, cordial email. I’ve gotten worse at writing emails.&lt;/li&gt;
+&lt;li&gt;My first response to most problems is to ask an LLM, and this might atrophy my ability to come up with better solutions since my starting point is already in the LLM-solution space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are all deliberate trade-offs I make for the sake of output speed. By sacrificing depth in my learning, I can produce substantially more work. I’m unsure if I’m at the correct balance between output quantity and depth of learning.
 This uncertainty is mainly fueled by a sense of urgency due to rapidly improving AI models.
-I don’t have time to learn everything deeply. I love learning, but given current trends, I want to maximize immediate output. I’m sacrificing some learning in classes for more time doing outside work. From a teacher’s perspective, this is obviously bad, but from my subjective standpoint, it’s unclear.&lt;/p></description></item><item><title>1% Improvements</title><link>https://vvvincent.me/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/1-improvements/</guid><description>&lt;p>Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
+I don’t have time to learn everything deeply. I love learning, but given current trends, I want to maximize immediate output. I’m sacrificing some learning in classes for more time doing outside work. From a teacher’s perspective, this is obviously bad, but from my subjective standpoint, it’s unclear.&lt;/p&gt;</description></item><item><title>1% Improvements</title><link>https://vvvincent.me/1-improvements/</link><pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/1-improvements/</guid><description>&lt;p&gt;Here&amp;rsquo;s a running list of tiny workflow tips that make my day-to-day noticeably smoother.
 Most of these are embarrassingly simple, but that&amp;rsquo;s the point!
-Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p>
-&lt;p>I will continually update this every ~month and try to only include things that I have kept up using for more than a month.
-Message me your favorites and I&amp;rsquo;ll include them!&lt;/p></description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p>This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
-&lt;a href="https://vncntt.github.io/metal_pins/">Try it out here&lt;/a>
-&lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation">
-&lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins">
-Check out the code &lt;a href="https://github.com/vncntt/metal_pins">here&lt;/a>.&lt;/p></description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol>
-&lt;li>What do truly long-context models look like?
+Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p&gt;
+&lt;p&gt;I will continually update this every ~month and try to only include things that I have kept up using for more than a month.
+Message me your favorites and I&amp;rsquo;ll include them!&lt;/p&gt;</description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p&gt;This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
+&lt;a href="https://vncntt.github.io/metal_pins/"&gt;Try it out here&lt;/a&gt;
+&lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation"&gt;
+&lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins"&gt;
+Check out the code &lt;a href="https://github.com/vncntt/metal_pins"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol&gt;
+&lt;li&gt;What do truly long-context models look like?
 I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
 I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?
-Predictive processing?&lt;/li>
-&lt;li>What will human-AI collaboration look like in the future?&lt;/li>
-&lt;li>How much software will humans be writing in three years?
-What are the comparative advantages of humans?&lt;/li>
-&lt;li>Is &amp;ldquo;We don&amp;rsquo;t need to find the most general, all-modality, solution. We just need to get something good enough to automate research. That&amp;rsquo;s the goal. After that, there&amp;rsquo;s a clear path and we&amp;rsquo;re just on high-level steering.&amp;rdquo; wrong?&lt;/li>
-&lt;li>Has someone created a gym environment that is a computer simulation? Actions are anything someone can do on a computer. After each episode, unit tests are run to determine reward. Why are we using screenshots?&lt;/li>
-&lt;li>How much does o1-style reasoning RL transfer to performing long-horizon tasks for computer use?&lt;/li>
-&lt;li>I don&amp;rsquo;t get how we&amp;rsquo;re passing the synthetic data wall. Yes, you can use o3 outputs to fine-tune 4o and get a really good o3-mini, but can you use oN outputs to get oN+1?&lt;/li>
-&lt;li>Can you get two models to communicate through residual streams and not text? Or CoT in the latent space instead of writing everything out? Is this desirable? How do you get training data for this?
-A quick perplexity search &lt;a href="https://transformer-circuits.pub/2023/privileged-basis/index.html">gets&lt;/a> &lt;a href="https://arxiv.org/html/2406.03230v2">me&lt;/a> &lt;a href="https://www.alignmentforum.org/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability">these&lt;/a> &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1gxxqs9/why_should_thoughts_be_word_tokens_in_o1_style/">links&lt;/a>.&lt;/li>
-&lt;li>We have text-to-text, text-to-image, text-to-video. What is the SOTA for text-to-action tokens in robots? There must be a way to leverage the understanding of the world language models have to robotics. How?&lt;/li>
-&lt;li>How much do traders use ML? It seems like a ripe field for it. Lots of money, data, smart people… Everything is probably private.&lt;/li>
-&lt;li>Why is Moravec&amp;rsquo;s paradox true?&lt;/li>
-&lt;li>How is Adam still the best optimizer after 10 years? `&lt;/li>
-&lt;li>How do lightweight code-generation models like Cursor&amp;rsquo;s work?&lt;/li>
-&lt;li>What is going on in interpretability these days?&lt;/li>
-&lt;li>Why are all the benchmarks in math and coding competitions? What happened to physics?&lt;/li>
-&lt;/ol></description></item><item><title>Ideas</title><link>https://vvvincent.me/ideas/</link><pubDate>Fri, 17 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/ideas/</guid><description>&lt;p>Some ideas I find interesting but don&amp;rsquo;t have enough time to make a reality.&lt;/p>
-&lt;ul>
-&lt;li>A &amp;ldquo;See all context&amp;rdquo; button. This is especially useful for reasoning models since I want to know which parts of the reasoning were dropped so I know how much context to provide.
-You would have to drop sensitive information like like system prompts.&lt;/li>
-&lt;li>JARVIS. Models are capable enough already! We just need some better scaffolding like Cursor and some way to fit in a lot of context. I really liked GPT with scheduled tasks. If you patch 20 of these together, you get a really good assistant. One that would be &lt;em>proactive&lt;/em>. I don&amp;rsquo;t want to ever miss a call again.&lt;/li>
-&lt;li>Surfing footage drone.
-Before surfing, I set off a drone which follows me and records cool footage of me catching waves.&lt;/li>
-&lt;li>Implement needle in a haystack.
+Predictive processing?&lt;/li&gt;
+&lt;li&gt;What will human-AI collaboration look like in the future?&lt;/li&gt;
+&lt;li&gt;How much software will humans be writing in three years?
+What are the comparative advantages of humans?&lt;/li&gt;
+&lt;li&gt;Is &amp;ldquo;We don&amp;rsquo;t need to find the most general, all-modality, solution. We just need to get something good enough to automate research. That&amp;rsquo;s the goal. After that, there&amp;rsquo;s a clear path and we&amp;rsquo;re just on high-level steering.&amp;rdquo; wrong?&lt;/li&gt;
+&lt;li&gt;Has someone created a gym environment that is a computer simulation? Actions are anything someone can do on a computer. After each episode, unit tests are run to determine reward. Why are we using screenshots?&lt;/li&gt;
+&lt;li&gt;How much does o1-style reasoning RL transfer to performing long-horizon tasks for computer use?&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t get how we&amp;rsquo;re passing the synthetic data wall. Yes, you can use o3 outputs to fine-tune 4o and get a really good o3-mini, but can you use oN outputs to get oN+1?&lt;/li&gt;
+&lt;li&gt;Can you get two models to communicate through residual streams and not text? Or CoT in the latent space instead of writing everything out? Is this desirable? How do you get training data for this?
+A quick perplexity search &lt;a href="https://transformer-circuits.pub/2023/privileged-basis/index.html"&gt;gets&lt;/a&gt; &lt;a href="https://arxiv.org/html/2406.03230v2"&gt;me&lt;/a&gt; &lt;a href="https://www.alignmentforum.org/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability"&gt;these&lt;/a&gt; &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1gxxqs9/why_should_thoughts_be_word_tokens_in_o1_style/"&gt;links&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We have text-to-text, text-to-image, text-to-video. What is the SOTA for text-to-action tokens in robots? There must be a way to leverage the understanding of the world language models have to robotics. How?&lt;/li&gt;
+&lt;li&gt;How much do traders use ML? It seems like a ripe field for it. Lots of money, data, smart people… Everything is probably private.&lt;/li&gt;
+&lt;li&gt;Why is Moravec&amp;rsquo;s paradox true?&lt;/li&gt;
+&lt;li&gt;How is Adam still the best optimizer after 10 years? `&lt;/li&gt;
+&lt;li&gt;How do lightweight code-generation models like Cursor&amp;rsquo;s work?&lt;/li&gt;
+&lt;li&gt;What is going on in interpretability these days?&lt;/li&gt;
+&lt;li&gt;Why are all the benchmarks in math and coding competitions? What happened to physics?&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Ideas</title><link>https://vvvincent.me/ideas/</link><pubDate>Fri, 17 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/ideas/</guid><description>&lt;p&gt;Some ideas I find interesting but don&amp;rsquo;t have enough time to make a reality.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &amp;ldquo;See all context&amp;rdquo; button. This is especially useful for reasoning models since I want to know which parts of the reasoning were dropped so I know how much context to provide.
+You would have to drop sensitive information like like system prompts.&lt;/li&gt;
+&lt;li&gt;JARVIS. Models are capable enough already! We just need some better scaffolding like Cursor and some way to fit in a lot of context. I really liked GPT with scheduled tasks. If you patch 20 of these together, you get a really good assistant. One that would be &lt;em&gt;proactive&lt;/em&gt;. I don&amp;rsquo;t want to ever miss a call again.&lt;/li&gt;
+&lt;li&gt;Surfing footage drone.
+Before surfing, I set off a drone which follows me and records cool footage of me catching waves.&lt;/li&gt;
+&lt;li&gt;Implement needle in a haystack.
 I swear my experience with using models don&amp;rsquo;t correspond with the needle in a haystack results they put out.
 The current &amp;ldquo;insert random sentence&amp;rdquo; method doesn&amp;rsquo;t seem great either.
-Combining facts from the beginning and the end, simple reasoning steps, and&lt;/li>
-&lt;li>Machine translation through steering vectors?&lt;/li>
-&lt;li>Give Claude/GPT/&amp;hellip; a decent prompt and scaffolding and let it loose on X.&lt;/li>
-&lt;li>Taiwanese news is 50% TSMC and gets updates instantly. But it takes a while for this to get to US news outlets. Make a scraper of big Taiwanese outlets and when it&amp;rsquo;s an article about TSMC, automatically translate it to English and post it somewhere.&lt;/li>
-&lt;li>&lt;a href="https://aayushg.com/ideas">https://aayushg.com/ideas&lt;/a>&lt;/li>
-&lt;li>How did my water get here? Enter in a location/building and see where your water source is from.
+Combining facts from the beginning and the end, simple reasoning steps, and&lt;/li&gt;
+&lt;li&gt;Machine translation through steering vectors?&lt;/li&gt;
+&lt;li&gt;Give Claude/GPT/&amp;hellip; a decent prompt and scaffolding and let it loose on X.&lt;/li&gt;
+&lt;li&gt;Taiwanese news is 50% TSMC and gets updates instantly. But it takes a while for this to get to US news outlets. Make a scraper of big Taiwanese outlets and when it&amp;rsquo;s an article about TSMC, automatically translate it to English and post it somewhere.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aayushg.com/ideas"&gt;https://aayushg.com/ideas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How did my water get here? Enter in a location/building and see where your water source is from.
 What pipes did your water go through?
 What water plant is it from?
-What&amp;rsquo;s the water source?&lt;/li>
-&lt;li>A script that someone goes through a bunch of websites and stores 404s or unavailables and emails people that some site is down.&lt;/li>
-&lt;/ul></description></item><item><title>Quotes</title><link>https://vvvincent.me/good-quotes/</link><pubDate>Tue, 14 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/good-quotes/</guid><description>&lt;blockquote>
-&lt;p>The Man In The Arena&lt;/p>
-&lt;p>It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.&lt;/p></description></item><item><title>The Best Sport</title><link>https://vvvincent.me/the-best-sport/</link><pubDate>Sat, 04 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/the-best-sport/</guid><description>&lt;p>Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching or kicking and you win by gaining dominant positions or submissions such as chokeholds or joint locks.&lt;/p>
-&lt;h2 id="what-makes-bjj-different">What Makes BJJ Different?&lt;/h2>
-&lt;p>BJJ is the &amp;ldquo;broadest&amp;rdquo; sport I&amp;rsquo;ve done.
+What&amp;rsquo;s the water source?&lt;/li&gt;
+&lt;li&gt;A script that someone goes through a bunch of websites and stores 404s or unavailables and emails people that some site is down.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Quotes</title><link>https://vvvincent.me/good-quotes/</link><pubDate>Tue, 14 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/good-quotes/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;The Man In The Arena&lt;/p&gt;
+&lt;p&gt;It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.&lt;/p&gt;</description></item><item><title>The Best Sport</title><link>https://vvvincent.me/the-best-sport/</link><pubDate>Sat, 04 Jan 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/the-best-sport/</guid><description>&lt;p&gt;Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching or kicking and you win by gaining dominant positions or submissions such as chokeholds or joint locks.&lt;/p&gt;
+&lt;h2 id="what-makes-bjj-different"&gt;What Makes BJJ Different?&lt;/h2&gt;
+&lt;p&gt;BJJ is the &amp;ldquo;broadest&amp;rdquo; sport I&amp;rsquo;ve done.
 It feels like math in the sense that you have so many distinct, but related, concepts to learn and problem-solving to do.
 In tennis or basketball, I felt like after building up the basics, I was repetitively honing small details to eek out 1-3% improvements (which can definitely still be fun).
 In BJJ, there are black belts who are still not familiar with many positions.
 There is definitely still lots of practice spent honing details of specific moves, but it feels like there is more pure learning (compared to refining) going on.
 Given any move or position, you can break it down into broad principles, details, counters, and counter counters.
-It&amp;rsquo;s a lot like physical chess.&lt;/p></description></item><item><title>Media I've Enjoyed</title><link>https://vvvincent.me/media-ive-enjoyed/</link><pubDate>Thu, 26 Dec 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/media-ive-enjoyed/</guid><description>&lt;p>obviously non-exhaustive&lt;/p>
-&lt;summary>Movies/shows&lt;/summary>
-&lt;ul>
-&lt;li>Monster (Japanese movie): messes with your head. 8/10&lt;br>&lt;/li>
-&lt;li>Squid Game&lt;/li>
-&lt;li>The Prestige: It&amp;rsquo;s so good. I don&amp;rsquo;t get how it&amp;rsquo;s not Interstellar-level popular. 10/10&lt;br>&lt;/li>
-&lt;li>Alice in Borderland&lt;br>&lt;/li>
-&lt;li>Top Gun&lt;br>&lt;/li>
-&lt;li>Money Heist&lt;br>&lt;/li>
-&lt;li>Stranger Things&lt;br>&lt;/li>
-&lt;li>Arrival&lt;br>&lt;/li>
-&lt;li>火神的眼淚&lt;br >&lt;/li>
-&lt;li>模仿犯&lt;br>&lt;/li>
-&lt;/ul>
-&lt;summary>Books&lt;/summary>
-&lt;ul>
-&lt;li>Open (Agassi biography)&lt;br>&lt;/li>
-&lt;li>Three Body Problem series&lt;br>&lt;/li>
-&lt;li>When Breath Becomes Air&lt;br>&lt;/li>
-&lt;li>Tomorrow, and Tomorrow, and Tomorrow&lt;br>&lt;/li>
-&lt;li>How Not to Be Wrong&lt;br>&lt;/li>
-&lt;li>Norwegian Wood&lt;br>&lt;/li>
-&lt;li>There is No Antimemetics Division&lt;br>&lt;/li>
-&lt;/ul></description></item><item><title>Thoughts On Cursor</title><link>https://vvvincent.me/thoughts-on-cursor/</link><pubDate>Sat, 09 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/thoughts-on-cursor/</guid><description>&lt;p>My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p>
-&lt;p>Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href="https://github.com/vncntt/webbot">pretty nice scraper&lt;/a> in two afternoons. It just works.&lt;/p>
-&lt;p>However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p>
-&lt;p>The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p></description></item><item><title>Principle of Least Action</title><link>https://vvvincent.me/principle-of-least-action/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/principle-of-least-action/</guid><description>&lt;p>I thought &lt;a href="https://www.youtube.com/watch?v=Q10_srZ-pbs">this video&lt;/a> was really fun and wrote up some of the derivations that the video went over quickly.&lt;/p>
-&lt;h1 id="introduction-and-basic-principles">Introduction and Basic Principles&lt;/h1>
-&lt;p>Maupertuis&amp;rsquo; principle of least action states that the action, defined as:&lt;/p>
-&lt;p>$$
+It&amp;rsquo;s a lot like physical chess.&lt;/p&gt;</description></item><item><title>Media I've Enjoyed</title><link>https://vvvincent.me/media-ive-enjoyed/</link><pubDate>Thu, 26 Dec 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/media-ive-enjoyed/</guid><description>&lt;p&gt;obviously non-exhaustive&lt;/p&gt;
+&lt;summary&gt;Movies/shows&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Monster (Japanese movie): messes with your head. 8/10&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Squid Game&lt;/li&gt;
+&lt;li&gt;The Prestige: It&amp;rsquo;s so good. I don&amp;rsquo;t get how it&amp;rsquo;s not Interstellar-level popular. 10/10&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Alice in Borderland&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Top Gun&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Money Heist&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Stranger Things&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Arrival&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;火神的眼淚&lt;br &gt;&lt;/li&gt;
+&lt;li&gt;模仿犯&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;summary&gt;Books&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Open (Agassi biography)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Three Body Problem series&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;When Breath Becomes Air&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Tomorrow, and Tomorrow, and Tomorrow&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;How Not to Be Wrong&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Norwegian Wood&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;There is No Antimemetics Division&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Thoughts On Cursor</title><link>https://vvvincent.me/thoughts-on-cursor/</link><pubDate>Sat, 09 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/thoughts-on-cursor/</guid><description>&lt;p&gt;My opinion of whether Cursor helps or hinders my work has fluctuated significantly over the past few months.&lt;/p&gt;
+&lt;p&gt;Cursor is really powerful. Having never worked with selenium drivers and barely editing any lines of code, I made a &lt;a href="https://github.com/vncntt/webbot"&gt;pretty nice scraper&lt;/a&gt; in two afternoons. It just works.&lt;/p&gt;
+&lt;p&gt;However, there&amp;rsquo;s a pretty significant distinction of using AI code editors that I haven&amp;rsquo;t seen explicitly stated anywhere.&lt;/p&gt;
+&lt;p&gt;The first way is tabbing to autocomplete code I&amp;rsquo;ve written hundreds of times, giving me more time for higher-order thinking. This is usually when I&amp;rsquo;m working with programming languages and projects I&amp;rsquo;m already familiar with. I dont see any immediate problems with this.&lt;/p&gt;</description></item><item><title>Principle of Least Action</title><link>https://vvvincent.me/principle-of-least-action/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/principle-of-least-action/</guid><description>&lt;p&gt;I thought &lt;a href="https://www.youtube.com/watch?v=Q10_srZ-pbs"&gt;this video&lt;/a&gt; was really fun and wrote up some of the derivations that the video went over quickly.&lt;/p&gt;
+&lt;h1 id="introduction-and-basic-principles"&gt;Introduction and Basic Principles&lt;/h1&gt;
+&lt;p&gt;Maupertuis&amp;rsquo; principle of least action states that the action, defined as:&lt;/p&gt;
+&lt;p&gt;$$
 S_0 = \sum mvs
-$$&lt;/p>
-&lt;p>where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.&lt;/p>
-&lt;p>Euler later generalized this to a continuous form:&lt;/p></description></item><item><title>Weird Things in High Dimensions</title><link>https://vvvincent.me/weird-/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/weird-/</guid><description>&lt;p>Some weird stuff happens in high-dimensions.&lt;/p>
-&lt;p>&lt;a href="https://x.com/aryehazan/status/1817877048053911912">Reference&lt;/a>&lt;/p>
-&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peel">1. &lt;a href="https://x.com/tszzl/status/1817081479190708528">High Dimensional Oranges Are Almost All Peel&lt;/a>&lt;/h2>
-&lt;p>Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&amp;ldquo;pulp&amp;rdquo;) surrounded by a $0.1$-width border (&amp;ldquo;peel&amp;rdquo;).&lt;/p>
-&lt;p>The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Dimensions&lt;/th>
- &lt;th>Pulp Volume ($0.8^n$)&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>1&lt;/td>
- &lt;td>0.800&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2&lt;/td>
- &lt;td>0.640&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>3&lt;/td>
- &lt;td>0.512&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>5&lt;/td>
- &lt;td>0.328&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>10&lt;/td>
- &lt;td>0.107&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>20&lt;/td>
- &lt;td>0.012&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>50&lt;/td>
- &lt;td>0.000014&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://x.com/Jsevillamol/status/1817213852402303024">Another perspective&lt;/a>: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases.&lt;/p></description></item><item><title>Watch More YouTube</title><link>https://vvvincent.me/watch-more-youtube/</link><pubDate>Fri, 20 Sep 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/watch-more-youtube/</guid><description>&lt;p>Many people have written about curating a very &lt;a href="https://near.blog/how-to-twitter-successfully/">good&lt;/a> &lt;a href="https://nabeelqu.co/twitter">Twitter&lt;/a> &lt;a href="https://near.blog/how-to-twitter-successfully/">feed&lt;/a>, but I have yet to see anyone talk about doing this with Youtube. I don&amp;rsquo;t know if many people do it but don&amp;rsquo;t talk about it, don&amp;rsquo;t do it, or what. I guess &amp;ldquo;subscribe to tons of accounts you enjoy, use the &amp;ldquo;Not Interested&amp;rdquo; for ones you want to avoid, and harvest&amp;rdquo; is not very deep.&lt;/p>
-&lt;p>YouTube’s algorithm is very good at recommending content you would enjoy and I’ve more consciously used that to curate my YouTube feed towards content I enjoy (mostly technical). I&amp;rsquo;ve discovered high-quality channels with fewer than 1k subscribers that wouldn&amp;rsquo;t have appeared in my feed if I hadn&amp;rsquo;t been more intentional. As a result, my YouTube feed feels like a mix of a science fair, machine learning conference, math club, hackathon, and symposium.&lt;/p></description></item><item><title>Podcast Notes</title><link>https://vvvincent.me/podcast-notes/</link><pubDate>Sun, 28 Jul 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/podcast-notes/</guid><description>&lt;h1 id="noam-shazeer-and-jeff-dean-on-dwarkesh">Noam Shazeer and Jeff Dean on Dwarkesh&lt;/h1>
-&lt;ul>
-&lt;li>
-&lt;p>arithmetic very cheap. moving data around is expensive.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>model parameters are very memory efficient:&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>one fact per parameter? (this probably isn&amp;rsquo;t the right way to think about it because of superposition?) versus in context, there are kqv which can many more bits&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>inference improvement thing? big model verifier, small model does it first thing?? &amp;ldquo;drafter models&amp;rdquo;. are these real? i don&amp;rsquo;t see how these parallelize. oh wait no you can batch it so it goes drafter -&amp;gt; actual -&amp;gt; drafter -&amp;gt; actual &amp;hellip;&lt;/p></description></item><item><title>What is this?</title><link>https://vvvincent.me/what-is-this/</link><pubDate>Thu, 25 Jul 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/what-is-this/</guid><description>&lt;p>I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I&amp;rsquo;m reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends.&lt;/p>
-&lt;p>Through this notebook, I hope to &amp;ldquo;produce&amp;rdquo; more and write better. For the longest time, I&amp;rsquo;ve been thinking my consuming to producing ratio has been higher than I would like, and hence I&amp;rsquo;m forcing myself to do more frequent, scrappy writeups (also &lt;a href="https://www.swyx.io/learn-in-public">Learning in Public&lt;/a>). Also, friends have told me about how valuable writing well is yet I&amp;rsquo;ve never actually written much outside of school. Writing more, and in public, will hopefully speedrun me becoming a better writer (please give me feedback if you have any!).&lt;/p></description></item></channel></rss>
+$$&lt;/p&gt;
+&lt;p&gt;where $m$ is the mass, $v$ is the velocity, and $s$ is the distance, reaches a minimum along the actual path of motion.&lt;/p&gt;
+&lt;p&gt;Euler later generalized this to a continuous form:&lt;/p&gt;</description></item><item><title>Weird Things in High Dimensions</title><link>https://vvvincent.me/weird-/</link><pubDate>Tue, 05 Nov 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/weird-/</guid><description>&lt;p&gt;Some weird stuff happens in high-dimensions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/aryehazan/status/1817877048053911912"&gt;Reference&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="1-high-dimensional-oranges-are-almost-all-peel"&gt;1. &lt;a href="https://x.com/tszzl/status/1817081479190708528"&gt;High Dimensional Oranges Are Almost All Peel&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Consider an $n$-dimensional cube of side length 1 containing a smaller $n$-dimensional cube with side length $0.8$ (&amp;ldquo;pulp&amp;rdquo;) surrounded by a $0.1$-width border (&amp;ldquo;peel&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;The volume of the pulp is $0.8^n$, which rapidly approaches 0 as $n$ increases:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Dimensions&lt;/th&gt;
+ &lt;th&gt;Pulp Volume ($0.8^n$)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;0.800&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;0.640&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;0.512&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;5&lt;/td&gt;
+ &lt;td&gt;0.328&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;10&lt;/td&gt;
+ &lt;td&gt;0.107&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;20&lt;/td&gt;
+ &lt;td&gt;0.012&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;50&lt;/td&gt;
+ &lt;td&gt;0.000014&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href="https://x.com/Jsevillamol/status/1817213852402303024"&gt;Another perspective&lt;/a&gt;: To randomly sample a point in this cube, we select $n$ independent coordinates from $[0,1]$. The point lies in the pulp only if all coordinates fall within $(0.1, 0.9)$. This probability is $(0.8)^n$, approaching 0 as $n$ increases.&lt;/p&gt;</description></item><item><title>Watch More YouTube</title><link>https://vvvincent.me/watch-more-youtube/</link><pubDate>Fri, 20 Sep 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/watch-more-youtube/</guid><description>&lt;p&gt;Many people have written about curating a very &lt;a href="https://near.blog/how-to-twitter-successfully/"&gt;good&lt;/a&gt; &lt;a href="https://nabeelqu.co/twitter"&gt;Twitter&lt;/a&gt; &lt;a href="https://near.blog/how-to-twitter-successfully/"&gt;feed&lt;/a&gt;, but I have yet to see anyone talk about doing this with Youtube. I don&amp;rsquo;t know if many people do it but don&amp;rsquo;t talk about it, don&amp;rsquo;t do it, or what. I guess &amp;ldquo;subscribe to tons of accounts you enjoy, use the &amp;ldquo;Not Interested&amp;rdquo; for ones you want to avoid, and harvest&amp;rdquo; is not very deep.&lt;/p&gt;
+&lt;p&gt;YouTube’s algorithm is very good at recommending content you would enjoy and I’ve more consciously used that to curate my YouTube feed towards content I enjoy (mostly technical). I&amp;rsquo;ve discovered high-quality channels with fewer than 1k subscribers that wouldn&amp;rsquo;t have appeared in my feed if I hadn&amp;rsquo;t been more intentional. As a result, my YouTube feed feels like a mix of a science fair, machine learning conference, math club, hackathon, and symposium.&lt;/p&gt;</description></item><item><title>Podcast Notes</title><link>https://vvvincent.me/podcast-notes/</link><pubDate>Sun, 28 Jul 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/podcast-notes/</guid><description>&lt;h1 id="noam-shazeer-and-jeff-dean-on-dwarkesh"&gt;Noam Shazeer and Jeff Dean on Dwarkesh&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;arithmetic very cheap. moving data around is expensive.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;model parameters are very memory efficient:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;one fact per parameter? (this probably isn&amp;rsquo;t the right way to think about it because of superposition?) versus in context, there are kqv which can many more bits&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;inference improvement thing? big model verifier, small model does it first thing?? &amp;ldquo;drafter models&amp;rdquo;. are these real? i don&amp;rsquo;t see how these parallelize. oh wait no you can batch it so it goes drafter -&amp;gt; actual -&amp;gt; drafter -&amp;gt; actual &amp;hellip;&lt;/p&gt;</description></item><item><title>What is this?</title><link>https://vvvincent.me/what-is-this/</link><pubDate>Thu, 25 Jul 2024 00:00:00 -0800</pubDate><guid>https://vvvincent.me/what-is-this/</guid><description>&lt;p&gt;I want this to be an informal/public notebook where I record thoughts that are too long for a non-premium Twitter account, notes on different things I&amp;rsquo;m reading, and maybe more formal writings as well. The target audience for this page is a mix of myself and current/potential friends.&lt;/p&gt;
+&lt;p&gt;Through this notebook, I hope to &amp;ldquo;produce&amp;rdquo; more and write better. For the longest time, I&amp;rsquo;ve been thinking my consuming to producing ratio has been higher than I would like, and hence I&amp;rsquo;m forcing myself to do more frequent, scrappy writeups (also &lt;a href="https://www.swyx.io/learn-in-public"&gt;Learning in Public&lt;/a&gt;). Also, friends have told me about how valuable writing well is yet I&amp;rsquo;ve never actually written much outside of school. Writing more, and in public, will hopefully speedrun me becoming a better writer (please give me feedback if you have any!).&lt;/p&gt;</description></item></channel></rss>
