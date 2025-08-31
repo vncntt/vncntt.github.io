@@ -13,10 +13,10 @@ Most of these are embarrassingly simple, but that&amp;rsquo;s the point!
 Habits that seem obvious to me might be totally new to someone else (and vice versa).&lt;/p&gt;
 &lt;p&gt;I will continually update this every ~month and try to only include things that I have kept up using for more than a month.
 Message me your favorites and I&amp;rsquo;ll include them!&lt;/p&gt;</description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p&gt;This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
-&lt;a href="https://vncntt.github.io/metal_pins/"&gt;Try it out here&lt;/a&gt;
+&lt;a href="https://vncntt.github.io/metal_pins/"&gt;Try it out here&lt;/a&gt;.
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation"&gt;
-&lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins"&gt;
-Check out the code &lt;a href="https://github.com/vncntt/metal_pins"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol&gt;
+&lt;img src="https://vvvincent.me/metal_pins.gif" alt="Metal pins"&gt;
+Try out the simulation for yourself &lt;a href="https://vncntt.github.io/metal_pins/"&gt;here&lt;/a&gt; and check out the code &lt;a href="https://github.com/vncntt/metal_pins"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol&gt;
 &lt;li&gt;What do truly long-context models look like?
 I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
 I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?

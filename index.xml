@@ -62,10 +62,10 @@ Message me your favorites and I&amp;rsquo;ll include them!&lt;/p&gt;</descriptio
 I was a freshman at UCSD and am a sophomore studying math at Cornell now.&lt;/p&gt;
 &lt;p&gt;I change my mind about things very often, but wanting to learn new things is a constant! I&amp;rsquo;m especially interested in math, ML, AI safety, Brazilian Jiu-Jitsu, and meeting new people. Message or email me if you want to talk!&lt;/p&gt;
 &lt;p&gt;Things I&amp;rsquo;ve been a part of and enjoyed: &lt;a href="https://rossprogram.org/"&gt;Ross&lt;/a&gt;, &lt;a href="https://www.warp.camp/"&gt;WARP&lt;/a&gt;, &lt;a href="https://www.atlasfellowship.org/"&gt;Atlas&lt;/a&gt;, &lt;a href="https://www.youtube.com/@veritasium"&gt;Veritasium&lt;/a&gt; (I worked there part time for six months. Message me to hear the story!).&lt;/p&gt;</description></item><item><title>Metal Pins Simulation</title><link>https://vvvincent.me/metal-pins-simulation/</link><pubDate>Sun, 09 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/metal-pins-simulation/</guid><description>&lt;p&gt;This web app uses your webcam, a lightweight depth model, and three.js to recreate that oddly satisfying metal pin toy effect.
-&lt;a href="https://vncntt.github.io/metal_pins/"&gt;Try it out here&lt;/a&gt;
+&lt;a href="https://vncntt.github.io/metal_pins/"&gt;Try it out here&lt;/a&gt;.
 &lt;img src="https://vvvincent.me/metalpin1.jpg" alt="Metal pins simulation"&gt;
-&lt;img src="https://vvvincent.me/metalpin2.gif" alt="Metal pins"&gt;
-Check out the code &lt;a href="https://github.com/vncntt/metal_pins"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol&gt;
+&lt;img src="https://vvvincent.me/metal_pins.gif" alt="Metal pins"&gt;
+Try out the simulation for yourself &lt;a href="https://vncntt.github.io/metal_pins/"&gt;here&lt;/a&gt; and check out the code &lt;a href="https://github.com/vncntt/metal_pins"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>15 Questions</title><link>https://vvvincent.me/15-questions/</link><pubDate>Tue, 04 Feb 2025 00:00:00 -0800</pubDate><guid>https://vvvincent.me/15-questions/</guid><description>&lt;ol&gt;
 &lt;li&gt;What do truly long-context models look like?
 I want to give the model all my journals, notes, pictures, previous work, etc. so that it can make connections and tailor responses for me.
 I imagine this to be In-between context stuffing and fine-tuning. Every ~day, the model takes all the conversations from that day and decides which to use to update its weights. In the future, will everyone have custom models?
