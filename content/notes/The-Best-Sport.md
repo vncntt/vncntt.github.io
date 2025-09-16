@@ -63,20 +63,13 @@ I co-started an underground Fight Club-type BJJ group because of this.
 ## If it's so good, why isn't it more popular?
 
 
-1. BJJ is impossible to watch if you haven't trained extensively before. 
+1. BJJ is hard to watch if you haven't trained extensively. 
 My dad watched tennis for 20 years without ever playing before. 
 In BJJ, you won't understand anything if you haven't practiced somewhat regularly. 
 I still understand very little of what's going on when watching leglock positions.
 2. Many competitions have different rulesets which makes the sport near impossible to be standardized into something like the Olympics. 
-3. BJJ is harder to watch if you haven't trained in the sport yourself. People can enjoy basketball or tennis without ever playing themselves, but this seems much harder for BJJ.
-
-<!-- $$
-\frac{\text{people watching BJJ}}{\text{people practicing BJJ}} << \frac{\text{people watching [other sport]}}{\text{people practicing [other sport]}}.
-$$ -->
 
 I have tried converting many friends to BJJ but have only partially succeeded for one. 
-
-
 
 ## Is it dangerous?
 I've recently had some mental blocks with being scared to go hard during training because of this as well, but BJJ is not very dangerous if you have good training partners and a good coach. 
