@@ -9,14 +9,14 @@ Brazilian Jiu-Jitsu (BJJ) is a grappling sport which means there is no punching 
 ## What Makes BJJ Different?
 BJJ is the "broadest" sport I've done. 
 It feels like math in the sense that you have so many distinct, but related, concepts to learn and problem-solving to do. 
-In tennis or basketball, I felt like after building up the basics, I was repetitively honing small details to eek out 1-3% improvements (which can definitely still be fun). 
+In tennis or basketball, I felt like after building up the basics, I was repetitively honing small details to eke out 1-3% improvements (which can definitely still be fun). 
 In BJJ, there are black belts who are still not familiar with many positions. 
 There is definitely still lots of practice spent honing details of specific moves, but it feels like there is more pure learning (compared to refining) going on.
 Given any move or position, you can break it down into broad principles, details, counters, and counter counters. 
 It's a lot like physical chess. 
 
 
-This [giant state diagram](https://x.com/vvvincent_c/status/1797458390702240150) I used to keep track of moves from each position illustrates of the breadth I'm talking about. 
+This [giant state diagram](https://x.com/vvvincent_c/status/1797458390702240150) I used to keep track of moves from each position illustrates the breadth I'm talking about. 
 I gave up soon after because there was too much as well. 
 There are many of these [online](https://bjjsystems.com/blog/wp-content/uploads/2019/11/John-Danaher-Back-Attacks-v1.png) but the massive oversimplification also icks me out a little. 
 So much of the instinctual little details can't be expressed in these diagrams. 
@@ -33,7 +33,7 @@ At the end, I asked him if he could choke me out (it's safe) and he put a rear-n
 He told me to go to his [gym](https://thebearsdenmartialarts.com/) and sign the waiver and then he'll do it. 
 I showed up the next day and trained 6 days a week for the next six months. 
 
-During the first week I would get completely beat up, but by ~two months I could consistently beat most the white belts. 
+During the first week I would get completely beat up, but by ~two months I could consistently beat most of the white belts. 
 
 I was in London for a month last summer and trained regularly at London Fight Factory.
 LFF is a much higher level gym and humbled me many times.
@@ -88,8 +88,8 @@ Some people wear it as a badge of honor but I think that's stupid.
 ## Conclusion
 All this to say, I am just a one-stripe white belt and am very new in the grand scheme of things. 
 There is still lots to come!
-Hope this ad was convincing and as maybe if you try it out, you will enjoy BJJ as much as I do.
+Hope this ad was convincing and maybe if you try it out, you will enjoy BJJ as much as I do.
 
 
-Thanks to Grant Slatton for some commments.
+Thanks to Grant Slatton for some comments.
 
