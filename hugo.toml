@@ -45,7 +45,7 @@ theme = "paper"
   ogImage = "/headshot.jpg"
 
 [permalinks]
-  notes = "/:filename/"
+  notes = "/:contentbasename/"
 
 [module]
   [[module.imports]]
