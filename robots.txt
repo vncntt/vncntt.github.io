@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://vvvincent.me/sitemap.xml 
+Sitemap: https://vincent-cheng.com/sitemap.xml
