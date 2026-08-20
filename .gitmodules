@@ -3,4 +3,4 @@
 	url = https://github.com/vncntt/metal_pins.git
 [submodule "themes/paper"]
 	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+	url = https://github.com/vncntt/hugo-paper
