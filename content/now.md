@@ -59,7 +59,11 @@ keywords = ["Vincent Cheng", "now", "current projects", "AI", "UCSD"]
 - In SF for the summer!
 - Wandering -->
 
-## What I'm Doing Now (updated 7/19)
+<!--## What I'm Doing Now (updated 7/19)
 
 - Working at [METR](https://metr.org/) over the summer on some CoT monitoring projects!
-- In Berkeley/SF
+- In Berkeley/SF-->
+
+## What I'm Doing Now (updated 8/23)
+
+Figuring out what I want to do next!
