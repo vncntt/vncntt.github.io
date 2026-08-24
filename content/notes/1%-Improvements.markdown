@@ -14,24 +14,32 @@ Message me your favorites and I'll include them!
 
 I still use all of these as of August 29, 2025.
 
-- [Tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
-- [Raycast](https://www.raycast.com/)
-   - WINDOW MANAGEMENT: Go to Raycast Settings -> Extensions -> Search 'Window Management' and bind all the window management commands you commonly use. I've bound `Cmd+Shift+j` to left half, `Cmd+Shift+k` to right half, `Cmd+Shift+b` to maximize, `Cmd+Shift+c` for next display (great when you have multiple monitors). I use these commands 50+ times a day. This replaces [Rectangle](https://rectangleapp.com/).
-   - Clipboard history is great. When people first told me about it, I couldn't think of situations I would use this, but intentionally thinking about it for a week I realized how wrong I was and use it every day now!
-   - Snippets: I bound `@@` and `!@` to common emails since I unnecessarily type them out so often.  
 - ***On Mac, `Cmd+Shift+Ctrl+4` allows you to screenshot a subset of your screen and copies it to clipboard. 
 Please use this. 
 I've met >10 people who only use `Cmd+Shift+4` which DOESN'T save the image to clipboard but rather saves it to desktop and shows up on the bottom left corner.
 Then, they scramble to drag it to where they want to paste it before it disappears. 
    - Taking it a step further, the default `Cmd+Shift+Ctrl+4` takes two hands to press, but you can rebind this to `Cmd+Shift+4` (which will only take your left hand) from System Settings > Keyboard Shortcuts > Keyboard > Screenshots (credits to Will).
-- [Granola](https://www.granola.ai/) for recording meetings.
+- [Raycast](https://www.raycast.com/)
+   - WINDOW MANAGEMENT: Go to Raycast Settings -> Extensions -> Search 'Window Management' and bind all the window management commands you commonly use. I've bound `Cmd+Shift+j` to left half, `Cmd+Shift+k` to right half, `Cmd+Shift+b` to maximize, `Cmd+Shift+c` for next display (great when you have multiple monitors). I use these commands 50+ times a day. This replaces [Rectangle](https://rectangleapp.com/).
+   - Clipboard history is great. When people first told me about it, I couldn't think of use cases, but I found tons of situations where it's helpful after just a week. I use it every day now!
+   - Snippets: I bound `@@` and `!@` to common emails since I unnecessarily type them out so often. 
+   - Search for emojis with `Ctrl+Cmd+Space` is faster than default. 
+   - Other extensions: Word Count, Screen OCR
+- `Cmd+l` to get to search bar in Chrome. You should be using this everyday.
+- `Cmd+Shift+m` and then `Tab` to switch between different Chrome profiles. 
+- `Cmd+1, Cmd+2, ...` to navigate between tabs
+- Make aliases for all your common terminal commands. 'p' for 'python', 'ga' for 'git add', ... See [my dotfiles](https://github.com/vncntt/dotfiles) for more. 
+- [Tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
 - [Beeper](https://www.beeper.com/). Have all your chats in one app. Have Instagram and Discord DM notifications available without the distracting bits.
+- This is the best [eye mask](https://www.amazon.com/dp/B0CRYX3FCZ) in the world. I wear it every day. 
+- A mattress topper. I have used [this](https://www.amazon.com/dp/B01MYN9K5B) and [this](https://www.walmart.com/ip/Mainstays-2-Memory-Foam-Mattress-Topper-Full/1476757387) and they've been better than any bed I've slept on previously. This makes sleeping so much better but also makes it so hard to get out of bed. 
 - [Youtube Playback Speed Control](https://chromewebstore.google.com/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik?hl=en-US) allows you to watch YouTube videos at 5x speed. It's also nice to increase/decrease video speed arbitrarily with +/- buttons. Often, I want to go faster but am scared I'll miss something if I use +5 seconds so I can go up to 4x and then slow back down which has a similar effect but is continuous so I don't miss anything.
 - [Vim for Google Docs extension](https://github.com/vncntt/vimdocs)
 - [AltTab](https://alt-tab-macos.netlify.app/) for Windows `Alt+Tab` on macOS. 
 This is strictly superior to pure `Cmd+Tab` as that only allows you to switch between apps and not windows within the same app. 
 However, tabbing through many windows can sometimes be annoying, so an alternative is only using non-maximize windows (it's not a big difference) and using Cmd+Tab to go between apps and Cmd+` to get between windows of the same app. 
 Since learning about these, I never swipe using four fingers on my Mac trackpad anymore and love it.  
+- [Granola](https://www.granola.ai/) for recording meetings.
 - If your LLM starts generating a response and you realize you missed something, edit your original message directly instead of sending a follow-up correction. It keeps the conversation cleaner.
 - Add archive.is/[link] to view WSJ or other paywalled sites.
 - Shift+select tabs and drag out to get a set of tabs to a new window.
@@ -41,8 +49,6 @@ Since learning about these, I never swipe using four fingers on my Mac trackpad 
 This one is at least a 5% improvement
 It saves me at least an hour a day and lowers the activation energy required to go anywhere on campus since everything is ~equidistant.
 I've also convinced at least 4 other friends to buy their own.
-- `Cmd+l` to get to search bar
-- `Cmd+1, Cmd+2, ...` to navigate between tabs
 - Discord keybindings: `Cmd+k` to search for channel name, `Cmd+Shift+u` to upload file, `Cmd+f` for search
 - [Excalidraw](https://excalidraw.com/) is good for sketching.
 - [Dell 40 inch curved monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories). 
@@ -52,12 +58,28 @@ I've also convinced at least 4 other friends to buy their own.
 - Obtain a full text version of a github repo: replace `github.com/user/name_of_repo` with `uithub.com/user/name_of_repo`. (doesn't work for private repos)
 - Binding next cell and previous cell in Google Colab since the Vim commands don't work for navigating between cells.
 - `Tab+Enter` to fill out forms without using your mouse. `Tab+"<ANSWER>"` where you type the answers out from a dropdown menu works too.
-- For Apple Notes on Mac: There isn't a default keybinding for strikethrough but you can bind it yourself through [this](https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
-- Make aliases for all your common terminal commands. 'p' for 'python', 'ga' for 'git add', ... See [my config file](https://github.com/vncntt/dotfiles/blob/main/config.fish) for all the ones I use.
+- For Apple Notes on Mac: There isn't a default keybinding for strikethrough but you can bind it yourself through [this](https://www.reddit.com/r/iphone/comments/z4kd77/comment/kqc620n).
 - Go to System Settings -> Login Items and remove everything except Raycast, Rectangle so your Mac doesn't open up 10 apps when you restart it. 
 - For 2+ years (?), the "hold down to repeat" on my mac wasn't on but I didn't bat an eye... *sigh*. I fixed this and added some customization which helps for vim navigation and other misc cases. Thanks to [Gabriel](https://x.com/GabrielPeterss4/status/1951889172089749965) for this one.
    - Run `defaults write -g ApplePressAndHoldEnabled -bool false` to turn it on.
    - Run `defaults write -g KeyRepeat -int X` to tune how fast Mac spits out keys when you hold down. A smaller X is faster. The default is 6 (every 90ms) which is way to slow for me. I use `X=2` but try out a few values and see what you like. 
    - You have to Logout and log back in for this to reset and take into effect. 
+- In your code editor, never look for files on the left sidebar. `Cmd+Shift+p`, type in the file name, and `Enter` to open files. This doesn't require leaving the keyboard.
 
-<!-- - Obsidian. Turn on sync so you can access it on your phone as well. I keep a single markdown file where I keep my journal entires and random thoughts throughout the day. Everyday is a new heading with for ex 2025-08-02. The single big text file is good for searching for things. Use `Fold all headings and list` command to close all your other day tabs.  -->
+<!--
+
+- Obsidian. Use iCloud sync so you can access it on your phone as well. I keep a single markdown file where I keep my journal entires and random thoughts throughout the day. Everyday is a new heading with for ex 2025-08-02. The single big text file is good for searching for things. Use `Fold all headings and list` command to close all your other day tabs. 
+   - plugins: 
+      - vimrc support (the setup is finnicky. you have to make the vimrc file from terminal rather than obsidian. copy the README to gpt-5 and ask questions if you get stuck.)
+      - kanban (nice todo)
+      - templater
+- make sure you have an icloud account and back up photos on your phone.
+
+---
+- Homerow for scrolling. I bound `Cmd+Shift+y` to scroll-mode and then k/j for up/down. 
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/): remap Caps Lock to `Escape` when tapped and `Control` when held.
+Caps Lock sits on prime home-row real estate and its default job is useless, while `Escape` (vim) and `Ctrl` (tmux prefix, `Ctrl+r`, `Ctrl+c`) are the two most-used keys stuck in the worst corners of the keyboard.
+Now both are a pinky tap away and my left hand never leaves home row.
+Side effects: I used to tap Caps Lock to switch between English/Pinyin, which now happens with hold-Caps+`Space` (i.e. `Ctrl+Space`) instead — arguably better since escaping vim can't accidentally flip my input language anymore. `Shift+Caps Lock` still toggles actual caps lock for the rare ALL CAPS moment.
+
+-->
