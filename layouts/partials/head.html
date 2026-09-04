@@ -14,16 +14,20 @@
 
   <!-- author -->
   {{ $site_author := or site.Params.author site.Params.name site.Title }}
+  {{ $description := .Description }}
+  {{ if not $description }}
+    {{ if .IsPage }}
+      {{ $description = .Summary | plainify | htmlUnescape | replaceRE `\s+` ` ` | strings.TrimSpace | truncate 160 }}
+    {{ else }}
+      {{ $description = site.Params.description | default `A personal blog` }}
+    {{ end }}
+  {{ end }}
+  <meta name="description" content="{{ $description }}" />
   <!---->
   {{ if eq .Kind "page" }}
-  <meta name="description" content="{{ .Summary }}" />
   <meta name="author" content="{{ or .Params.author $site_author }}" />
   {{ else }}
   <!---->
-  <meta
-    name="description"
-    content="{{ site.Params.description | default (print `A personal blog`) }}"
-  />
   <meta name="author" content="{{ $site_author }}" />
   {{ end }}
 

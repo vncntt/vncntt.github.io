@@ -2,7 +2,7 @@
 date = '2025-02-10T01:44:37-08:00'
 draft = false 
 title = 'Now'
-description = "What Vincent Cheng is currently working on - AI projects, evals, and school at UCSD."
+description = "What Vincent Cheng is doing now and thinking about next."
 keywords = ["Vincent Cheng", "now", "current projects", "AI", "UCSD"]
 +++
 

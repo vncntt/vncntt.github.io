@@ -37,7 +37,7 @@ theme = "paper"
   github = 'vncntt'
   
   # SEO and metadata
-  description = "Vincent Cheng, UCSD Math-CS student, Cornell, Atlas fellow, Redwood, METR, Felicis Fellow,  Interested in math, ML, AI, Brazilian Jiu-Jitsu, tennis, learning, and arm-wrestling."
+  description = "Vincent Cheng's personal website: notes and projects on mathematics, machine learning, AI safety, and learning."
   author = "Vincent Cheng"
   keywords = ["Vincent Cheng", "UCSD", "Cornell", "Math-CS", "Atlas Fellow", "Ross", "WARP", "IOAI", "ML", "AI"]
 

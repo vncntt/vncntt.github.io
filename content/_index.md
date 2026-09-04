@@ -1,7 +1,7 @@
 +++
 title = 'Vincent Cheng'
 draft = false
-description = "Vincent Cheng - Cornell Math, Atlas Fellow, Interested in math, AI, and the world!"
+description = "Vincent Cheng's personal website: notes and projects on mathematics, machine learning, AI safety, and learning."
 keywords = ["Vincent Cheng", "UCSD", "Cornell", "Math", "CS", "Atlas Fellow", "METR", "machine learning", "artificial intelligence"]
 +++
 

@@ -2,7 +2,7 @@
 date = '2025-02-10T01:44:29-08:00'
 draft = false 
 title = 'About'
-description = "Learn about Vincent Cheng - UCSD Math-CS student, Cornell transfer, Atlas Fellow. Interested in math, ML, AI, and Brazilian Jiu-Jitsu."
+description = "About Vincent Cheng: studying mathematics at Cornell, with interests in machine learning, AI safety, and Brazilian Jiu-Jitsu."
 keywords = ["Vincent Cheng", "about", "UCSD", "Cornell", "Atlas Fellowship", "math", "computer science", "machine learning"]
 +++
 
